@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
@@ -50,6 +51,10 @@ getLyrics("Truth Hurts", "Lizzo")
 
 #Save the artist's songs to a JSON file:
 #artist.save_lyrics()
+
+
+
+
 
 
 
