@@ -1,17 +1,12 @@
 
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
+ 
 
 
 import os
-
-
 #Import the package and search for songs by a given artist:
 import lyricsgenius
+import re
 
 path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/"
 os.chdir(path)
@@ -25,8 +20,32 @@ os.chdir(path)
 #print(song.lyrics)
 
 
+songListDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/songscraper/SongLists'
+os.path.join(songListDir, '2019.txt')
+#reading url file and creating list
+file = '2019.txt'
+with open(os.path.join(songListDir, '2019.txt')) as infile :
+        songList = infile.readlines()
+        infile.close()
+        
+        
 
-def getLyrics(songName, artist):
+for line in songList:
+    songs = line.split("\t")
+    
+
+
+    
+
+    
+songs[0] = songs[0].strip("\"")
+songs[1] = songs[1].strip("\n")
+
+'''
+#file of song name and artist searched and year(hot100), and song name and artist actually searched and year
+'''
+#add year param
+def getLyrics(songName, artist, year):
     genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
     artist = genius.search_artist(artist, max_songs=1, sort="title")
     song = genius.search_song(songName, artist.name)
@@ -37,27 +56,13 @@ def getLyrics(songName, artist):
         f= open(songName + '.txt' ,"w+")
         f.write(song.lyrics)
         f.close()
+        #log file .txt or csv, seperate by a tab
+    #wait half second before next request
+    time.sleep(.5)
+    return song
     
     
-getLyrics("Truth Hurts", "Lizzo")
-
-
-
-#Search for a single song by the same artist:
-#artist.add_song(song)
-
-#add the song to the artist object
-#artist.add_song(song)
-
-#Save the artist's songs to a JSON file:
-#artist.save_lyrics()
-
-
-
-
-
-
-
+s = getLyrics("Te quiero", "Lizzo")
 
 
 
