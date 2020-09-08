@@ -35,7 +35,7 @@ searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State Universit
 #
 ##file of song name and artist searched and year(hot100), and song name and artist actually searched and year
 #
-#
+##keep off git
 #genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
 #artist = genius.search_artist(songs[98][1], max_songs=1, sort="title")
 #song = genius.search_song(songs[98][0], songs[98][1])
@@ -45,12 +45,9 @@ searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State Universit
 #    f.close()
 
 
-
-#genius token
-genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
  
-file = '2019.txt'
-year = 2019
+file = '2018.txt'
+year = 2018
 
 def songLyrics(songFile, songListDir, songSearchDir, genius, year):
 
@@ -98,28 +95,31 @@ def getLyrics(songName, artist, songSearchDir, genius, year) :
         return 'null'
         #save to error file
     else:
-        path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/" + str(year) + '/'
-        if os.path.isdir(path) == True:
-            f= open(songName + '.txt' ,"w+")
-            f.write(song.lyrics)
-            f.close()
-            with open(os.path.join(songSearchDir, 'ActuallySearched.txt'), 'a')  as f:
-                f.write(songName + '\t'+ artist + '\t*****\t' + song.title + '\t'  + song.artist + "\n")
-                f.close()
-                
-        else:
-            os.mkdir(str(year))
-            path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/" + str(year) + '/'
-            os.chdir(path)
+        path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLyrics/" + str(year) + '/'
         
-            f= open(songName + '.txt' ,"w+")
-            f.write(song.lyrics)
-            f.close()
-            #log file .txt or csv, seperate by a tab
-    
+        if os.path.isdir(path) == False:
+            os.mkdir(path)
+            
+        f= open(os.path.join(path, songName + '.txt') ,"w+")
+        f.write(song.lyrics)
+        f.close()
         with open(os.path.join(songSearchDir, 'ActuallySearched.txt'), 'a')  as f:
             f.write(songName + '\t'+ artist + '\t*****\t' + song.title + '\t'  + song.artist + "\n")
             f.close()
+                
+#        else:
+#            os.mkdir(str(year))
+#            path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLyrics/" + str(year) + '/'
+#            os.chdir(path)
+#        
+#            f= open(songName + '.txt' ,"w+")
+#            f.write(song.lyrics)
+#            f.close()
+            #log file .txt or csv, seperate by a tab
+    
+#        with open(os.path.join(songSearchDir, 'ActuallySearched.txt'), 'a')  as f:
+#            f.write(songName + '\t'+ artist + '\t*****\t' + song.title + '\t'  + song.artist + "\n")
+#            f.close()
     
     
     #wait half second before next request
@@ -130,3 +130,10 @@ def getLyrics(songName, artist, songSearchDir, genius, year) :
 songLyrics(file, songListDir, searchDir, genius, year)
 path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
 os.chdir(path)
+
+#artist = 'Drake'
+#songName = 'Gods Plan'
+#
+#artist2 = genius.search_artist(artist, max_songs=1, sort="title")
+#genius.search_song(songName, artist2, get_full_info = False)
+
