@@ -9,14 +9,14 @@ import lyricsgenius
 import re
 import time
 
-path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/"
+path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
 os.chdir(path)
 
 
 
-songListDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/songscraper/SongLists'
-songSearchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/songscraper/searched'
-searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/songscraper/searched'
+songListDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLists'
+songSearchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongSearched'
+searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongSearched'
 
 file = '2019.txt'
 
@@ -57,6 +57,9 @@ with open(os.path.join(songSearchDir, 'search.txt'), 'a')  as f:
 
 genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
 
+
+#song file = txt
+#songListDir = 
 
 def songLyrics(songFile, songListDir, songSearchDir, genius):
 
@@ -116,3 +119,4 @@ def getLyrics(songName, artist, songSearchDir, genius) :
 
 
 songLyrics(file, songListDir, searchDir, genius)
+ 
