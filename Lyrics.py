@@ -49,6 +49,7 @@ genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiq
 
 file = '2018.txt'
 year = 2018
+count = 1
 
 def songLyrics(songFile, songListDir, songSearchDir, genius, year):
 
@@ -76,8 +77,9 @@ def songLyrics(songFile, songListDir, songSearchDir, genius, year):
 
 
 #add year param
-def getLyrics(songName, artist, songSearchDir, genius, year):
-    print("getting:" ,songName, ' *** ', artist)
+def getLyrics(songName, artist, songSearchDir, genius, year, count):
+    print("Song Number: ", count)
+    print("Getting:" ,songName, ' *** ', artist)
     
     
     artist2 = genius.search_artist(artist, max_songs=1, sort="title")
@@ -125,6 +127,7 @@ def getLyrics(songName, artist, songSearchDir, genius, year):
     
     #wait half second before next request
     time.sleep(.5)
+    count += 1 
     return song
 
 
