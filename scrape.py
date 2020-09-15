@@ -12,16 +12,16 @@ import urllib.request
 from bs4 import BeautifulSoup
 import time
 
-'''
-#reading url file and creating list
-file = 'urls.txt'
-with open(file) as infile :
-        url = infile.readlines()
-        infile.close()
 
-for i, char in enumerate(url):
-    url[i] = url[i].replace('\n', '')
-    '''
+##reading url file and creating list
+#file = 'urls.txt'
+#with open(file) as infile :
+#        url = infile.readlines()
+#        infile.close()
+#
+#for i, char in enumerate(url):
+#    url[i] = url[i].replace('\n', '')
+
 
 
 #partial url

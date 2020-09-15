@@ -45,7 +45,8 @@ searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State Universit
 #    f.close()
 
 
- 
+genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
+
 file = '2018.txt'
 year = 2018
 
@@ -75,7 +76,7 @@ def songLyrics(songFile, songListDir, songSearchDir, genius, year):
 
 
 #add year param
-def getLyrics(songName, artist, songSearchDir, genius, year) :
+def getLyrics(songName, artist, songSearchDir, genius, year):
     print("getting:" ,songName, ' *** ', artist)
     
     
@@ -85,7 +86,7 @@ def getLyrics(songName, artist, songSearchDir, genius, year) :
     if artist2 == None:
         song = genius.search_song(songName)
     else:
-        song = genius.search_song(songName, artist2)
+        song = genius.search_song(songName, artist2.name)
     
     
     if song == None:
@@ -127,10 +128,60 @@ def getLyrics(songName, artist, songSearchDir, genius, year) :
     return song
 
 
-songLyrics(file, songListDir, searchDir, genius, year)
-path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
-os.chdir(path)
 
+
+
+#################################################################################################################################
+
+#def getLyrics(songName, artist, songSearchDir, genius, year):
+
+#artist = 'Drake'
+#songName = 'Gods Plan'
+#songSearchDir = searchDir
+#genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
+#
+#print("getting:" ,songName, ' *** ', artist)
+#    
+#    
+#artist2 = genius.search_artist(artist, max_songs=1, sort="title")
+#    
+#    
+#if artist2 == None:
+#    song = genius.search_song(songName)
+#else:
+#    song = genius.search_song(songName, artist2)
+#    
+#    
+#if song == None:
+#    with open(os.path.join(songSearchDir, 'error.txt'), 'a')  as f:
+#        f.write(songName + '\t' + artist + "\n")
+#        f.close()
+#    return 'null'
+#        #save to error file
+#else:
+#    path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLyrics/" + str(year) + '/'
+#        
+#    if os.path.isdir(path) == False:
+#        os.mkdir(path)
+#            
+#    f= open(os.path.join(path, songName + '.txt') ,"w+")
+#    f.write(song.lyrics)
+#    f.close()
+#    with open(os.path.join(songSearchDir, 'ActuallySearched.txt'), 'a')  as f:
+#        f.write(songName + '\t'+ artist + '\t*****\t' + song.title + '\t'  + song.artist + "\n")
+#        f.close()
+
+
+
+
+
+
+#################################################################################################################################
+
+songLyrics(file, songListDir, searchDir, genius, year)
+#path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
+#os.chdir(path)
+#
 #artist = 'Drake'
 #songName = 'Gods Plan'
 #
