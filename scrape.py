@@ -49,7 +49,7 @@ songList_Dir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State Univer
 #    #wait half second before next request
 #    time.sleep(.5)
     
-for year in range(2010, 2020):
+for year in range(1960, 2020):
     sauce = urllib.request.urlopen(url_year + str(year))
     soup = BeautifulSoup(sauce, 'lxml')
 
