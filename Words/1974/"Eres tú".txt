@@ -1,0 +1,1 @@
+{'mis', 'poema', 'sonrisa', 'trigo', 'eres', 'guitarra', 'horizonte', 'hogar', 'noche', 'en', 'mi', 'Así', 'Toda', 'hoguera', 'fuente', 'tú', 'esperanza', 'una', 'agua', 'promesa', 'verano', 'fuerte', 'brisa', 'de', 'mañana', 'Eres', 'Como', 'como', 'Todo', 'fuego', 'el', 'manos', 'pan', 'así', 'Algo', 'lluvia', 'fresca', 'la'}

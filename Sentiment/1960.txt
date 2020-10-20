@@ -1,0 +1,80 @@
+0 "Theme from A Summer Place"		2.4000000000000004
+1 "He'll Have to Go"		0.4319444444444444
+2 "Cathy's Clown"		4.5
+3 "Running Bear"		5.3819444444444455
+4 "Teen Angel"		1.3147619047619048
+5 "I'm Sorry"		-3.9785714285714286
+6 "It's Now or Never"		3.275
+7 "Handy Man"		1.527777777777778
+8 "Stuck on You"		0.14166666666666672
+9 "The Twist"		-1.0805555555555555
+10 "Everybody's Somebody's Fool"		2.35
+11 "Wild One"		-0.27076599326599327
+12 "Greenfields"		1.29
+13 "What in the World's Come Over You"		1.3642857142857143
+14 "El Paso"		1.443704906204906
+15 "Alley Oop"		1.5020833333333334
+16 "My Heart Has a Mind of Its Own"		2.9113636363636366
+17 "Sweet Nothin's"		5.407142857142857
+18 "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"		-1.5458333333333334
+19 "Only the Lonely"		-0.2779220779220778
+20 "Where or When"		1.8875
+21 "Sixteen Reasons"		1.4333333333333333
+22 "Puppy Love"		4.35
+23 "Why"		10.844642857142858
+24 "Walk, Don't Run"		0.0
+25 "Save the Last Dance for Me"		2.078095238095238
+26 "Baby (You've Got What It Takes)"		4.832142857142857
+27 "Sink the Bismarck"		0.4527777777777777
+28 "Chain Gang"		2.844973544973545
+29 "Let It Be Me"		2.7499999999999996
+30 "Good Timin'"		6.744444444444444
+31 "Beyond the Sea"		2.4800000000000004
+32 "Go, Jimmy, Go"		1.05
+33 "Night"		1.9
+34 "Burning Bridges"		-1.5916666666666668
+35 "The Big Hurt"		0.5
+36 "Because They're Young"		0.0
+37 "Lonely Blue Boy"		-0.7999999999999999
+38 "Pretty Blue Eyes"		2.9333333333333336
+39 "Way Down Yonder in New Orleans"		1.9747113997113996
+40 "Paper Roses"		3.4666666666666677
+41 "Mr. Custer"		28.308177008177005
+42 "I Want to Be Wanted"		3.0428571428571423
+43 "Mule Skinner Blues"		0.9362373737373736
+44 "Cradle of Love"		5.624444444444444
+45 "You Got What It Takes"		6.498989898989898
+46 "Please Help Me, I'm Falling"		1.65
+47 "Love You So"		5.1119047619047615
+48 "Finger Poppin' Time"		6.8
+49 "Harbor Lights"		1.65
+50 "Let the Little Girl Dance"		-1.7875000000000003
+51 "He'll Have to Stay"		2.8499999999999996
+52 "Theme from The Apartment"		-0.4087301587301587
+53 "Volare"		4.2
+54 "A Million to One"		2.8
+55 "The Village of St. Bernadette"		2.575
+56 "White Silver Sands"		11.853610986675951
+57 "The Old Lamp-Lighter"		-0.12127525252525255
+58 "Devil or Angel"		2.8
+59 "Down by the Station"		3.5090277777777783
+60 "Forever"		1.7
+61 "Image of a Girl"		-0.2918650793650798
+62 "Kiddio"		3.988888888888888
+63 "Mission Bell"		8.63
+64 "I Love the Way You Love"		10.419155844155844
+65 "It's Time to Cry"		-0.12500000000000006
+66 "Tell Laura I Love Her"		2.0
+67 "Mama"		2.936363636363636
+68 "Footsteps"		-0.25555555555555554
+69 "So Sad"		1.4142857142857141
+70 "That's All You Gotta Do"		2.0999999999999996
+71 "Walking to New Orleans"		1.1954545454545453
+72 "Among My Souvenirs"		0.7000000000000001
+73 "Swingin' School"		3.644065656565657
+74 "A Rockin' Good Way (To Mess Around and Fall in Love)"		15.366666666666662
+75 "Stairway to Heaven"		1.57
+76 "My Home Town"		0.40694444444444444
+77 "Georgia on My Mind"		1.9500000000000002
+78 "Cherry Pie"		8.309523809523808
+79 "Wonderful World"		9.650000000000002

@@ -1,0 +1,100 @@
+0 "I Want to Hold Your Hand"		2.1
+1 "She Loves You"		4.8500000000000005
+2 "Hello, Dolly!"		1.2791666666666668
+3 "Oh, Pretty Woman"		5.207936507936508
+4 "I Get Around"		0.21903559403559403
+5 "Everybody Loves Somebody"		1.7999999999999998
+6 "My Guy"		3.875
+7 "We'll Sing in the Sunshine"		1.2
+8 "Last Kiss"		4.044087301587301
+9 "Where Did Our Love Go"		1.4500000000000006
+10 "People"		1.0869047619047618
+11 "Java"		0.0
+12 "A Hard Day's Night"		-0.6821428571428573
+13 "Love Me Do"		12.536363636363637
+14 "Do Wah Diddy Diddy"		4.504265873015873
+15 "Please Please Me"		1.1083333333333332
+16 "Dancing in the Street"		1.0251082251082249
+17 "Little Children"		0.44166666666666665
+18 "Love Me with All Your Heart (Cuando Calienta El Sol)"		6.0
+19 "Under the Boardwalk"		2.352777777777778
+20 "Chapel of Love"		6.05
+21 "Suspicion"		0.2878968253968254
+22 "Glad All Over"		9.9
+23 "Rag Doll"		1.1208333333333333
+24 "Dawn (Go Away)"		0.0
+25 "Bread and Butter"		0.75
+26 "It Hurts to Be in Love"		4.835648148148148
+27 "Dead Man's Curve"		-1.3340007215007212
+28 "Come a Little Bit Closer"		-0.08124999999999981
+29 "A World Without Love"		3.7666666666666666
+30 "Have I the Right?"		5.830158730158731
+31 "Don't Let the Rain Come Down (Crooked Little Man)"		-2.6091287878787885
+32 "Baby Love"		5.65
+33 "Let It Be Me"		2.7499999999999996
+34 "Wishin' and Hopin'"		3.0999999999999996
+35 "You Don't Own Me"		4.225505050505051
+36 "Walk On By"		0.08888888888888885
+37 "The House of the Rising Sun"		0.12449494949494944
+38 "G.T.O."		-0.6597222222222221
+39 "Twist and Shout"		0.7833333333333334
+40 "Memphis"		1.5933333333333335
+41 "White on White"		0.9058080808080808
+42 "Hey Little Cobra"		-3.3255555555555554
+43 "The Shoop Shoop Song (It's in His Kiss)"		0.8428571428571427
+44 "Bits and Pieces"		0.7857142857142856
+45 "My Boy Lollipop"		1.35
+46 "Um, Um, Um, Um, Um, Um"		1.0375
+47 "The Little Old Lady from Pasadena"		-0.43440656565656566
+48 "Don't Let the Sun Catch You Crying"		0.9083333333333332
+49 "A Summer Song"		1.7499999999999998
+50 "The Girl from Ipanema"		1.575
+51 "Can't Buy Me Love"		9.75
+52 "Remember (Walking in the Sand)"		1.4613636363636364
+53 "C'mon and Swim"		-0.35000000000000003
+54 "Do You Want to Know a Secret"		0.45
+55 "Keep On Pushing"		0.49375
+56 "Baby I Need Your Loving"		10.243506493506493
+57 "Navy Blue"		0.46319444444444435
+58 "Diane"		1.8
+59 "Out of Limits"		0.0
+60 "Little Honda"		0.6521825396825396
+61 "Chug-a-Lug"		0.37499999999999994
+62 "See the Funny Little Clown"		0.8250000000000001
+63 "Because"		4.271428571428572
+64 "(Just Like) Romeo and Juliet"		21.45444335243994
+65 "For You"		0.0
+66 "Today"		3.086363636363636
+67 "Can't You See That She's Mine"		1.2416666666666665
+68 "Leader of the Pack"		-0.7730429292929294
+69 "Funny How Time Slips Away"		1.7693722943722943
+70 "The Way You Do the Things You Do"		3.9107142857142865
+71 "Anyone Who Had a Heart"		6.4
+72 "I Love You More and More Every Day"		4.0
+73 "It's Over"		2.4363636363636365
+74 "Ronnie"		2.74
+75 "Surfin' Bird"		0.0
+76 "What Kind of Fool (Do You Think I Am)"		5.088888888888889
+77 "The Door Is Still Open to My Heart"		7.1319522291104755
+78 "You Really Got Me"		4.250000000000001
+79 "The Shelter of Your Arms"		-0.7305555555555556
+80 "I'm So Proud"		8.2
+81 "I Wanna Love Him So Bad"		1.0083333333333333
+82 "Dang Me"		0.993030303030303
+83 "Cotton Candy"		-2.269390331890332
+84 "(You Don't Know) How Glad I Am"		5.1
+85 "Money (That's What I Want)"		-3.299603174603175
+86 "Don't Throw Your Love Away"		8.6
+87 "Hi-Heel Sneakers"		0.8583333333333334
+88 "How Do You Do It?"		0.5571428571428572
+89 "Walk, Don't Run '64"		27.353165036187356
+90 "Do You Love Me"		2.839814814814815
+91 "Shangri-La"		1.325
+92 "Haunted House"		3.9495504495504496
+93 "Steal Away"		-0.9517857142857142
+94 "I Saw Her Standing There"		0.058928571428571414
+95 "A Fool Never Learns"		3.4500000000000006
+96 "Bad to Me"		-1.225
+97 "There! I've Said It Again"		5.1625000000000005
+98 "Louie Louie"		0.8324404761904761
+99 "Needles and Pins"		0.6809523809523809

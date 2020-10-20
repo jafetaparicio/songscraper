@@ -1,0 +1,46 @@
+0 "(Everything I Do) I Do It for You"		1.9999999999999998
+1 "I Wanna Sex You Up"		7.47857142857143
+2 "Gonna Make You Sweat (Everybody Dance Now)"		0.7043317793317794
+3 "Rush Rush"		6.732539682539684
+4 "One More Try"		-1.965811965811966
+5 "Unbelievable"		-4.481712962962963
+6 "More Than Words"		8.756060606060606
+7 "I Like the Way (The Kissing Game)"		2.836363636363637
+8 "The First Time"		4.4363636363636365
+9 "Baby Baby"		4.025
+10 "Motownphilly"		0.9808080808080809
+11 "Because I Love You (The Postman Song)"		5.932142857142858
+12 "Someday"		-0.6472222222222221
+13 "High Enough"		4.399090909090909
+14 "From a Distance"		0.6
+15 "All the Man That I Need"		4.325079365079365
+16 "Right Here, Right Now"		3.8214285714285707
+17 "I Adore Mi Amor"		6.5
+18 "Love Will Never Do (Without You)"		9.322916666666668
+19 "Good Vibrations"		10.049999999999995
+20 "Justify My Love"		6.9642857142857135
+21 "Emotions"		4.045
+22 "Joyride"		6.2523809523809515
+23 "Romantic"		6.466931216931217
+24 "Hold You Tight"		1.2119047619047614
+25 "I Don't Wanna Cry"		0.3676587301587301
+26 "You're in Love"		10.908333333333333
+27 "Every Heartbeat"		4.5666666666666655
+28 "Sensitivity"		3.6843253968253973
+29 "Touch Me (All Night Long)"		2.9292207792207803
+30 "I've Been Thinking About You"		1.0148148148148146
+31 "Do Anything"		0.3759920634920637
+32 "Losing My Religion"		0.30000000000000004
+33 "Coming Out of the Dark"		4.033333333333333
+34 "It Ain't Over 'til It's Over"		9.7
+35 "Here We Go"		2.426051726051726
+36 "Where Does My Heart Beat Now"		3.2840909090909087
+37 "Summertime"		3.1823232323232324
+38 "Wind of Change"		2.083333333333333
+39 "P.A.S.S.I.O.N."		1.7166666666666666
+40 "The Promise of a New Day"		5.195454545454545
+41 "I'm Your Baby Tonight"		6.66468253968254
+42 "Love of a Lifetime"		6.992640692640693
+43 "Fading Like a Flower (Every Time You Leave)"		0.9926587301587302
+44 "This House"		2.9727272727272727
+45 "Hole Hearted"		4.316666666666667

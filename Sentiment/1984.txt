@@ -1,0 +1,100 @@
+0 "When Doves Cry"		-2.0250000000000004
+1 "What's Love Got to Do with It"		7.086363636363635
+2 "Say Say Say"		0.7
+3 "Footloose"		-0.40576923076923094
+4 "Against All Odds (Take a Look at Me Now)"		1.2999999999999998
+5 "Jump"		-2.9694444444444446
+6 "Hello"		4.7
+7 "Owner of a Lonely Heart"		1.836363636363636
+8 "Ghostbusters"		3.025
+9 "Karma Chameleon"		3.583333333333333
+10 "Missing You"		-9.882936507936506
+11 "All Night Long (All Night)"		0.6777777777777777
+12 "Let's Hear It for the Boy"		4.827380952380952
+13 "Dancing in the Dark"		-1.8464285714285706
+14 "Girls Just Want To Have Fun"		8.86103896103896
+15 "The Reflex"		-0.551111111111111
+16 "Time After Time"		-0.2636363636363638
+17 "Jump (For My Love)"		11.155158730158732
+18 "Talking in Your Sleep"		2.479365079365079
+19 "Self Control"		2.726262626262626
+20 "Let's Go Crazy"		-3.1339015151515146
+21 "Say It Isn't So"		0.7593253968253966
+22 "Hold Me Now"		15.986363636363638
+23 "Joanna"		8.74484126984127
+24 "I Just Called to Say I Love You"		3.8475
+25 "Somebody's Watching Me"		-0.3241071428571427
+26 "Break My Stride"		-2.2500000000000004
+27 "99 Luftballons"		0.05000000000000002
+28 "I Can Dream About You"		1.837301587301587
+29 "The Glamorous Life"		5.2375
+30 "Oh Sherrie"		8.025
+31 "Stuck on You"		0.6652777777777779
+32 "I Guess That's Why They Call It the Blues"		2.568181818181818
+33 "She Bop"		1.747077922077922
+34 "Borderline"		7.816666666666667
+35 "Sunglasses at Night"		-0.2571428571428571
+36 "Eyes Without a Face"		0.8459595959595961
+37 "Here Comes the Rain Again"		0.5454545454545454
+38 "Uptown Girl"		4.318888888888889
+39 "Sister Christian"		2.832142857142857
+40 "Drive"		-1.6555555555555554
+41 "Twist of Fate"		4.90422077922078
+42 "Union of the Snake"		0.9523809523809524
+43 "The Heart of Rock & Roll"		1.174242424242424
+44 "Hard Habit to Break"		-3.1763257575757575
+45 "The Warrior"		3.9833333333333334
+46 "If Ever You're in My Arms Again"		5.033333333333333
+47 "Automatic"		-1.7416666666666671
+48 "Let the Music Play"		1.4628149628149634
+49 "To All the Girls I've Loved Before"		9.836363636363636
+50 "Caribbean Queen"		1.9333333333333331
+51 "That's All"		0.35238095238095235
+52 "Running with the Night"		4.626587301587302
+53 "Sad Songs (Say So Much)"		-5.29920634920635
+54 "I Want a New Drug"		0.1372294372294373
+55 "Islands in the Stream"		-0.14015151515151536
+56 "Love Is a Battlefield"		3.1000000000000005
+57 "Infatuation"		1.8572420634920632
+58 "Almost Paradise"		1.7541666666666669
+59 "Legs"		0.15932539682539681
+60 "State of Shock"		5.325
+61 "Love Somebody"		4.690806878306878
+62 "Miss Me Blind"		-1.595833333333333
+63 "If This Is It"		4.092857142857143
+64 "You Might Think"		-2.581944444444444
+65 "Lucky Star"		7.371428571428571
+66 "Cover Me"		0.5611111111111112
+67 "Cum on Feel the Noize"		0.38750000000000034
+68 "Breakdance"		0.6171717171717171
+69 "Adult Education"		0.9997619047619051
+70 "They Don't Know"		0.5107142857142858
+71 "An Innocent Man"		2.3960858585858587
+72 "Cruel Summer"		-7.053174603174604
+73 "Dance Hall Days"		4.859999999999999
+74 "Give It Up"		2.65
+75 "I'm So Excited"		4.220833333333333
+76 "I Still Can't Get Over Loving You"		6.604083416583415
+77 "Thriller"		-1.551984126984127
+78 "Holiday"		3.644444444444445
+79 "Breakin'... There's No Stopping Us"		2.7194444444444446
+80 "Nobody Told Me"		2.152613636363636
+81 "Church of the Poison Mind"		3.025
+82 "Think of Laura"		3.036363636363636
+83 "Time Will Reveal"		5.848214285714286
+84 "Wrapped Around Your Finger"		-0.325
+85 "Pink Houses"		1.8461111111111108
+86 "Round and Round"		1.4511904761904766
+87 "Head over Heels"		2.0178571428571423
+88 "The Longest Time"		2.2115476190476193
+89 "Tonight"		5.46904761904762
+90 "Got a Hold on Me"		12.774603174603175
+91 "Dancing in the Sheets"		0.9
+92 "Undercover of the Night"		0.3743326118326117
+93 "On the Dark Side"		-1.3124999999999998
+94 "New Moon on Monday"		1.6863636363636365
+95 "Major Tom (Coming Home)"		3.9142857142857146
+96 "Magic"		8.180932539682539
+97 "When You Close Your Eyes"		1.0169146825396824
+98 "Rock Me Tonite"		1.4558742183742184
+99 "Yah Mo B There"		-0.3119047619047619

@@ -1,0 +1,1 @@
+{'not', 'Philosophy', 'in', 'fog', 'Do', 'walk', 'let', 'is', "'m", 'of', 'Religion', 'dog', 'are', 'I', 'Before', 'water', 'know', 'mean', 'many', 'rocks', 'what', 'on', 'box', 'get', 'or', 'Choke', 'talk', 'a', 'Are', 'light', 'the', 'me', 'cereal', 'if', 'too', 'things', 'smile', "n't", 'you', 'shallow', 'What', 'deep', 'slippery', 'am', 'aware'}

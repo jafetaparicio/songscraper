@@ -1,0 +1,67 @@
+0 "The Way We Were"		0.3500000000000001
+1 "Seasons in the Sun"		3.85813492063492
+2 "Love's Theme"		0.0
+3 "Come and Get Your Love"		14.952380952380954
+4 "Dancing Machine"		2.723280423280423
+5 "The Loco-Motion"		1.1113636363636363
+6 "TSOP (The Sound of Philadelphia)"		-0.6222222222222223
+7 "The Streak"		0.9663492063492065
+8 "Bennie and the Jets"		1.3659340659340657
+9 "One Hell of a Woman"		9.74126984126984
+10 "Until You Come Back to Me (That's What I'm Gonna Do)"		1.125
+11 "Jungle Boogie"		-5.444444444444447
+12 "Midnight at the Oasis"		-0.15416666666666665
+13 "You Make Me Feel Brand New"		3.4181818181818175
+14 "Show and Tell"		1.4357142857142855
+15 "Spiders and Snakes"		3.757936507936507
+16 "Rock On"		0.12222222222222225
+17 "Sunshine on My Shoulders"		4.94
+18 "Sideshow"		1.9839285714285713
+19 "Hooked on a Feeling"		5.169642857142858
+20 "Billy Don't Be a Hero"		0.3055555555555555
+21 "Band on the Run"		1.0694444444444444
+22 "The Most Beautiful Girl"		1.8750000000000002
+23 "Time in a Bottle"		0.85
+24 "Annie's Song"		1.3444444444444446
+25 "Let Me Be There"		0.2857142857142857
+26 "Sundown"		3.045833333333333
+27 "(You're) Having My Baby"		10.799999999999999
+28 "Rock Me Gently"		12.229761904761903
+29 "Boogie Down"		-2.9345833333333338
+30 "You're Sixteen"		6.1
+31 "If You Love Me (Let Me Know)"		8.15
+32 "Dark Lady"		3.2821969696969697
+33 "Best Thing That Ever Happened to Me"		5.391666666666667
+34 "Feel Like Makin' Love"		1.225
+35 "Just Don't Want to Be Lonely"		9.185714285714287
+36 "Nothing from Nothing"		-0.3642857142857143
+37 "Rock Your Baby"		0.43392857142857133
+38 "Top of the World"		5.091666666666666
+39 "The Joker"		3.871428571428571
+40 "I've Got to Use My Imagination"		8.713492063492065
+41 "The Show Must Go On"		-1.5455555555555556
+42 "Rock the Boat"		2.4500000000000006
+43 "Smokin' in the Boys Room"		1.2293650793650794
+44 "Living for the City"		2.6618145743145742
+45 "The Night Chicago Died"		2.05
+46 "Then Came You"		10.346527777777776
+47 "The Entertainer"		0.0
+48 "Waterloo"		2.6
+49 "The Air That I Breathe"		4.1625
+50 "Rikki Don't Lose That Number"		3.75625
+51 "Mockingbird"		2.5
+52 "Help Me"		4.714814814814815
+53 "You Won't See Me"		0.008333333333333331
+54 "Never, Never Gonna Give You Up"		3.081448412698413
+55 "Tell Me Something Good"		8.4
+56 "You and Me Against the World"		1.8166666666666667
+57 "Rock and Roll Heaven"		-0.2999999999999998
+58 "Hollywood Swinging"		-2.527777777777778
+59 "Be Thankful for What You Got"		2.7
+60 "Hang on in There Baby"		4.191756854256855
+61 "Eres tú"		0.0
+62 "Takin' Care of Business"		4.001190476190477
+63 "Radar Love"		5.308585858585858
+64 "Please Come to Boston"		1.3866161616161614
+65 "Keep on Smilin'"		-0.6999999999999997
+66 "Lookin' for a Love"		16.64910714285714

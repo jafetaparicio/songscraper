@@ -1,0 +1,11 @@
+0 "Hey Jude"		-0.9763888888888886
+1 "Love is Blue"		0.0
+2 "Honey"		3.3700396825396832
+3 "(Sittin' On) The Dock of the Bay"		0.13636363636363635
+4 "People Got to Be Free"		4.9363636363636365
+5 "Sunshine of Your Love"		3.0500000000000003
+6 "This Guy's in Love With You"		6.754166666666666
+7 "The Good, the Bad and the Ugly"		0.0
+8 "Mrs. Robinson"		2.2187499999999996
+9 "Tighten Up"		1.2347763347763347
+10 "Harper Valley PTA"		0.5019444444444444

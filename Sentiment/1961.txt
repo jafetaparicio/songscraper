@@ -1,0 +1,91 @@
+0 "Tossin' and Turnin'"		1.419047619047619
+1 "I Fall to Pieces"		1.1363636363636362
+2 "Michael"		-0.775
+3 "Crying"		-0.8702380952380955
+4 "Runaway"		-0.29722222222222217
+5 "My True Story"		3.15
+6 "Pony Time"		1.7380952380952381
+7 "Wheels"		-0.6472222222222224
+8 "Raindrops"		1.75
+9 "Wooden Heart"		1.7958333333333334
+10 "Calcutta"		0.0
+11 "Take Good Care of My Baby"		8.962499999999999
+12 "Running Scared"		-0.19999999999999996
+13 "Dedicated to the One I Love"		1.8916666666666666
+14 "Last Night"		0.0
+15 "Will You Love Me Tomorrow"		5.075
+16 "Exodus"		0.0
+17 "Where the Boys Are"		0.4694444444444443
+18 "Hit the Road Jack"		-3.528571428571429
+19 "Sad Movies (Make Me Cry)"		0.10952380952380947
+20 "Mother-in-Law"		-0.5805555555555555
+21 "Bristol Stomp"		3.494047619047619
+22 "Travelin' Man"		1.3602182539682535
+23 "Shop Around"		5.3880952380952385
+24 "The Boll Weevil Song"		2.7607142857142852
+25 "A Hundred Pounds of Clay"		0.19415584415584414
+26 "The Mountain's High"		0.9144444444444446
+27 "Don't Worry"		3.8732142857142855
+28 "On the Rebound"		0.0
+29 "Portrait of My Love"		2.0
+30 "Quarter to Three"		1.575
+31 "Who Put the Bomp (in the Bomp, Bomp, Bomp)"		2.8169642857142856
+32 "Calendar Girl"		5.311111111111111
+33 "I Like It Like That"		0.23472222222222222
+34 "Apache"		-0.007768157768157979
+35 "Don't Bet Money Honey"		1.3571428571428572
+36 "Without You"		3.575
+37 "Wings of a Dove"		2.1982142857142857
+38 "Little Sister"		-0.6884776334776334
+39 "Blue Moon"		1.3
+40 "Daddy's Home"		5.87142857142857
+41 "This Time"		0.3181818181818183
+42 "(I Don't Know Why) But I Do"		2.466666666666667
+43 "Asia Minor"		0.25
+44 "Hello Walls"		-0.3499999999999999
+45 "Runaround Sue"		3.5480158730158724
+46 "Yellow Bird"		2.658333333333334
+47 "Hurt"		1.4835858585858586
+48 "Hello Mary Lou"		2.1357142857142857
+49 "There's a Moon Out Tonight"		0.0
+50 "Surrender"		2.35
+51 "I Love How You Love Me"		9.5
+52 "Ya Ya"		2.4749999999999996
+53 "School Is Out"		4.55
+54 "Mexico"		-1.7082341269841272
+55 "You Don't Know What You've Got (Until You Lose It)"		0.6499999999999999
+56 "Walk Right Back"		3.785714285714286
+57 "The Way You Look Tonight"		1.7666666666666666
+58 "Moody River"		1.4863636363636363
+59 "One Mint Julep"		0.13660714285714287
+60 "Take Good Care of Her"		8.4
+61 "Gee Whiz (Look at His Eyes)"		3.05
+62 "Stand by Me"		-1.45
+63 "Spanish Harlem"		3.5777777777777775
+64 "It's Gonna Work Out Fine"		8.831944444444446
+65 "Baby Blue"		44.83432525807526
+66 "Baby Sittin' Boogie"		1.3159722222222223
+67 "Hats Off to Larry"		1.325
+68 "Those Oldies but Goodies"		0.375
+69 "The Fly"		8.175
+70 "(Marie's the Name) His Latest Flame"		2.5300000000000002
+71 "Wonderland by Night"		0.5
+72 "Bless You"		2.35625
+73 "I've Told Every Little Star"		2.1625
+74 "One Track Mind"		1.9077922077922076
+75 "Angel Baby"		1.0279563492063488
+76 "Pretty Little Angel Eyes"		6.834375
+77 "Think Twice"		1.9500000000000002
+78 "Does Your Chewing Gum Lose Its Flavour (On the Bedpost Overnight?)"		0.8809523809523808
+79 "Breakin' in a Brand New Broken Heart"		-0.3344155844155845
+80 "Mama Said"		0.15416666666666667
+81 "Let the Four Winds Blow"		1.8
+82 "The Writing on the Wall"		-0.07470238095238124
+83 "My Kind of Girl"		6.849999999999999
+84 "Tonight My Love, Tonight"		6.378571428571428
+85 "San Antonio Rose"		3.7424242424242427
+86 "Big Bad John"		-2.2617514430014425
+87 "Good Time Baby"		7.547916666666666
+88 "Rubber Ball"		-0.20833333333333345
+89 "Missing You"		2.7857142857142856
+90 "Dum Dum"		2.678125

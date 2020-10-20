@@ -1,0 +1,15 @@
+0 "The Sign"		2.370530303030303
+1 "I Swear"		2.978571428571428
+2 "I'll Make Love to You"		4.246428571428572
+3 "The Power of Love"		5.771428571428571
+4 "Hero"		0.8583333333333332
+5 "Stay (I Missed You)"		-0.5568181818181821
+6 "Breathe Again"		6.679761904761905
+7 "All for Love"		4.3
+8 "All That She Wants"		5.0357142857142865
+9 "Don't Turn Around"		2.8411255411255416
+10 "Bump n' Grind"		-4.758035714285715
+11 "Again"		6.114880952380952
+12 "I'll Remember"		1.5
+13 "Whatta Man"		17.480092592592598
+14 "Wild Night"		0.7749999999999999

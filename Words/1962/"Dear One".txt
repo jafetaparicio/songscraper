@@ -1,0 +1,1 @@
+{'Words', 'Artist', 'Finneran', 'by', 'Lawrence', 'Vincent', 'peak', 'Music', 'One', 'Dear', 'Larry', 'C', 'Finnegan', '11', 'and', 'Billboard', '1962', 'position', 'John', 'in'}

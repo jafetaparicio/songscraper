@@ -1,0 +1,19 @@
+0 "Shadow Dancing"		9.78373015873016
+1 "Night Fever"		3.349206349206349
+2 "You Light Up My Life"		2.3357142857142854
+3 "Stayin' Alive"		4.261168831168831
+4 "Kiss You All Over"		2.65
+5 "How Deep Is Your Love"		3.9791666666666674
+6 "Baby Come Back"		0.571139971139971
+7 "(Love Is) Thicker Than Water"		1.075
+8 "Boogie Oogie Oogie"		-2.422222222222222
+9 "Three Times a Lady"		5.736363636363636
+10 "Grease"		1.7214285714285713
+11 "I Go Crazy"		-3.6333333333333337
+12 "You're the One That I Want"		3.814814814814815
+13 "Emotion"		-0.4892857142857143
+14 "Lay Down Sally"		-1.3250000000000004
+15 "Miss You"		-1.0
+16 "Just the Way You Are"		1.1808080808080808
+17 "With a Little Luck"		-3.1305555555555555
+18 "If I Can't Have You"		0.5666666666666668

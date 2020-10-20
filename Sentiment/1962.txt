@@ -1,0 +1,38 @@
+0 "Stranger on the Shore"		0.0
+1 "I Can't Stop Loving You"		1.8431818181818183
+2 "Mashed Potato Time"		7.0
+3 "Roses Are Red (My Love)"		5.183863636363635
+4 "The Stripper"		0.0
+5 "Johnny Angel"		4.05
+6 "The Loco-Motion"		2.5137445887445886
+7 "Let Me In"		-0.25
+8 "The Twist"		-1.0805555555555555
+9 "Soldier Boy"		4.425
+10 "Hey! Baby"		0.7777777777777778
+11 "The Wanderer"		2.6087301587301583
+12 "Duke of Earl"		1.5
+13 "Palisades Park"		4.297222222222222
+14 "Breaking Up Is Hard to Do"		0.06309523809523798
+15 "Wolverton Mountain"		1.3765873015873016
+16 "Slow Twistin'"		-2.2205357142857145
+17 "It Keeps Right On a-Hurtin'"		1.3801587301587301
+18 "The One Who Really Loves You"		6.013888888888889
+19 "Good Luck Charm"		3.4895833333333335
+20 "Midnight in Moscow"		0.0
+21 "Sheila"		3.3937500000000007
+22 "Twistin' the Night Away"		5.5196969696969695
+23 "The Wah-Watusi"		2.1142857142857143
+24 "Peppermint Twist"		-0.07474747474747478
+25 "Break It to Me Gently"		1.2050925925925924
+26 "Playboy"		2.9194444444444447
+27 "Ramblin' Rose"		5.55
+28 "Sealed with a Kiss"		0.8
+29 "She Cried"		1.0
+30 "Don't Break the Heart That Loves You"		1.6291666666666664
+31 "Dear Lady Twist"		1.2613636363636365
+32 "Norman"		1.75
+33 "Love Letters"		2.2214285714285715
+34 "Party Lights"		-0.26666666666666666
+35 "Cotton Fields"		0.8372222222222223
+36 "Alley Cat"		0.0
+37 "Twist and Shout"		0.6803571428571429

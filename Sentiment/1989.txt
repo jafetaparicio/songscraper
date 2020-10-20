@@ -1,0 +1,8 @@
+0 "Look Away"		5.853030303030303
+1 "My Prerogative"		3.8820226070226065
+2 "Every Rose Has Its Thorn"		4.849458874458874
+3 "Straight Up"		10.64583333333333
+4 "Miss You Much"		10.499999999999995
+5 "Cold Hearted"		0.8249999999999998
+6 "Wind Beneath My Wings"		2.7686666666666673
+7 "Girl You Know It's True"		8.300541125541125

@@ -1,0 +1,49 @@
+0 "Hold On"		8.234623015873016
+1 "It Must Have Been Love"		8.508333333333333
+2 "Nothing Compares 2 U"		0.6583333333333334
+3 "Poison"		5.2151587301587305
+4 "Vogue"		3.291666666666667
+5 "Vision of Love"		5.8277777777777775
+6 "Another Day in Paradise"		0.09999999999999998
+7 "Hold On"		8.234623015873016
+8 "Cradle of Love"		15.156845238095242
+9 "Blaze of Glory"		2.177777777777778
+10 "Do Me!"		1.5930555555555554
+11 "How Am I Supposed to Live Without You"		3.7487373737373737
+12 "Pump Up the Jam"		-0.23124999999999984
+13 "Opposites Attract"		0.6
+14 "Escapade"		0.8249999999999995
+15 "All I Wanna Do Is Make Love to You"		11.611958874458873
+16 "Close to You"		4.990277777777778
+17 "Black Velvet"		0.24712121212121183
+18 "Release Me"		2.797936507936507
+19 "Don't Know Much"		-1.2944444444444445
+20 "All Around the World"		-1.5583333333333331
+21 "I Wanna Be Rich"		6.472569444444444
+22 "Rub You the Right Way"		9.19404761904762
+23 "She Ain't Worth It"		3.2433333333333336
+24 "If Wishes Came True"		8.558928571428568
+25 "The Power"		0.9462572150072149
+26 "(Can't Live Without Your) Love and Affection"		8.189935064935066
+27 "Love Will Lead You Back"		4.033333333333334
+28 "Don't Wanna Fall in Love"		12.499999999999998
+29 "Two to Make It Right"		2.0214285714285714
+30 "Sending All My Love"		11.771428571428572
+31 "Unskinny Bop"		3.771428571428572
+32 "Step by Step"		3.3500000000000005
+33 "Dangerous"		-7.847619047619046
+34 "We Didn't Start the Fire"		2.6238636363636365
+35 "I Don't Have the Heart"		2.9
+36 "Downtown Train"		0.5134469696969696
+37 "Rhythm Nation"		4.911904761904762
+38 "I'll Be Your Everything"		5.158333333333333
+39 "Roam"		1.5948148148148151
+40 "Everything"		0.19999999999999996
+41 "Back to Life (However Do You Want Me)"		-0.07954545454545453
+42 "Here and Now"		7.968452380952381
+43 "Alright"		8.841666666666667
+44 "Ice Ice Baby"		-2.983493242868243
+45 "Blame It on the Rain"		0.03333333333333327
+46 "Have You Seen Her"		7.639682539682539
+47 "With Every Beat of My Heart"		3.0250000000000004
+48 "Come Back to Me"		-0.70993265993266

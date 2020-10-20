@@ -1,0 +1,37 @@
+0 "The First Time Ever I Saw Your Face"		4.4624999999999995
+1 "Alone Again (Naturally)"		12.6647182348766
+2 "American Pie"		6.215252525252527
+3 "Without You"		1.9045454545454543
+4 "The Candy Man"		13.635714285714283
+5 "I Gotcha"		3.378125
+6 "Lean on Me"		0.45238095238095233
+7 "Baby, Don't Get Hooked on Me"		2.8249999999999997
+8 "Brand New Key"		1.8765151515151517
+9 "Daddy Don't You Walk So Fast"		1.5125541125541124
+10 "Let's Stay Together"		1.4613636363636362
+11 "Brandy (You're a Fine Girl)"		10.355555555555553
+12 "Oh Girl"		2.185714285714286
+13 "Nice to Be with You"		7.477777777777776
+14 "My Ding-a-Ling"		-0.8409722222222223
+15 "(If Loving You Is Wrong) I Don't Want to Be Right"		2.8636183261183255
+16 "Heart of Gold"		0.8446969696969696
+17 "Betcha by Golly, Wow"		8.916666666666666
+18 "I'll Take You There"		-0.06458333333333333
+19 "Ben"		0.95
+20 "The Lion Sleeps Tonight"		0.625
+21 "Outa-Space"		0.0
+22 "Slippin' into Darkness"		45.16476162726162
+23 "Long Cool Woman in a Black Dress"		1.3012698412698414
+24 "How Do You Do"		3.625
+25 "Song Sung Blue"		1.8166666666666667
+26 "A Horse with No Name"		3.9416666666666664
+27 "Popcorn"		0.0
+28 "Everybody Plays the Fool"		-0.07460317460317456
+29 "Precious and Few"		4.1
+30 "(Last Night) I Didn't Get to Sleep at All"		1.0
+31 "Nights in White Satin"		7.242911255411256
+32 "Go All the Way"		1.9363095238095238
+33 "Too Late to Turn Back Now"		4.77797619047619
+34 "Back Stabbers"		0.09999999999999976
+35 "Down by the Lazy River"		-1.3943121693121696
+36 "Sunshine"		3.3363636363636364

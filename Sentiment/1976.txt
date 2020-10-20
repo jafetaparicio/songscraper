@@ -1,0 +1,51 @@
+0 "Silly Love Songs"		11.514285714285712
+1 "Don't Go Breaking My Heart"		7.1952380952380945
+2 "Disco Lady"		0.4015873015873011
+3 "December, 1963 (Oh, What a Night)"		1.932142857142857
+4 "Play That Funky Music"		1.5138888888888884
+5 "Kiss and Say Goodbye"		0.0
+6 "Love Machine"		10.824583333333333
+7 "50 Ways to Leave Your Lover"		4.672835497835498
+8 "Love Is Alive"		4.616666666666665
+9 "A Fifth of Beethoven"		0.0
+10 "Sara Smile"		3.099999999999999
+11 "Afternoon Delight"		0.22311507936507932
+12 "I Write the Songs"		4.679285714285714
+13 "Fly, Robin, Fly"		7.199999999999999
+14 "Love Hangover"		4.988333333333333
+15 "Get Closer"		-0.4777777777777778
+16 "More, More, More"		8.1
+17 "Bohemian Rhapsody"		-1.0778968253968253
+18 "Misty Blue"		2.7333333333333334
+19 "Boogie Fever"		-0.2525252525252528
+20 "I'd Really Love to See You Tonight"		5.375
+21 "You Sexy Thing"		9.221428571428572
+22 "Love Hurts"		10.859259259259257
+23 "Get Up and Boogie"		2.5714285714285707
+24 "Take It to the Limit"		3.9027777777777777
+25 "(Shake, Shake, Shake) Shake Your Booty"		1.0444444444444443
+26 "Sweet Love"		12.105467171717176
+27 "Right Back Where We Started From"		8.126785714285717
+28 "Theme from S.W.A.T."		0.0
+29 "Love Rollercoaster"		8.695238095238095
+30 "You Should Be Dancing"		2.8365079365079366
+31 "You'll Never Find Another Love Like Mine"		2.6931818181818183
+32 "Golden Years"		7.880555555555553
+33 "Moonlight Feels Right"		3.464285714285714
+34 "Only Sixteen"		3.5083333333333333
+35 "Let Your Love Flow"		11.26
+36 "Dream Weaver"		1.8050000000000002
+37 "Turn the Beat Around"		10.447916666666668
+38 "Lonely Night (Angel Face)"		1.61547619047619
+39 "All by Myself"		1.349621212121212
+40 "Love to Love You Baby"		5.822222222222222
+41 "Deep Purple"		1.5428571428571427
+42 "Theme from Mahogany (Do You Know Where You're Going To)"		0.49999999999999994
+43 "Sweet Thing"		1.7089285714285707
+44 "That's the Way (I Like It)"		1.85
+45 "A Little Bit More"		3.4251262626262626
+46 "Shannon"		2.2125
+47 "If You Leave Me Now"		0.3722222222222221
+48 "Lowdown"		-3.683101851851852
+49 "Show Me the Way"		0.24444444444444446
+50 "Dream On"		3.8833333333333337

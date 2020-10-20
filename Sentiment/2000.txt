@@ -1,0 +1,91 @@
+0 "Breathe"		2.63015873015873
+1 "Smooth"		5.0
+2 "Maria Maria"		2.875
+3 "I Wanna Know"		-2.902738927738928
+4 "Everything You Want"		1.4398809523809524
+5 "Say My Name"		-0.22222222222222232
+6 "I Knew I Loved You"		5.775
+7 "Amazed"		3.2125000000000004
+8 "Bent"		0.25416666666666676
+9 "He Wasn't Man Enough"		4.2
+10 "Higher"		1.776919191919192
+11 "Try Again"		4.324999999999999
+12 "Jumpin', Jumpin'"		11.255411255411254
+13 "Thong Song"		0.6714285714285715
+14 "Kryptonite"		-2.9763888888888888
+15 "There You Go"		3.0074999999999994
+16 "Music"		-1.2
+17 "Doesn't Really Matter"		24.575000000000006
+18 "What a Girl Wants"		9.059722222222224
+19 "Back at One"		0.9720779220779221
+20 "Bye Bye Bye"		-1.6876443001443007
+21 "You Sang to Me"		2.422727272727273
+22 "I Need to Know"		1.9
+23 "Get It On Tonite"		2.075
+24 "Incomplete"		0.15000000000000002
+25 "I Try"		2.7035714285714296
+26 "It's Gonna Be Me"		1.05
+27 "That's The Way It Is"		5.7523809523809515
+28 "Country Grammar (Hot Shit)"		5.76142773892774
+29 "Bring It All to Me"		4.838095238095238
+30 "Show Me the Meaning of Being Lonely"		-1.1375
+31 "Hot Boyz"		8.853030303030303
+32 "Back Here"		0.07500000000000001
+33 "It Feels So Good"		8.194444444444445
+34 "Absolutely (Story of a Girl)"		2.5999999999999996
+35 "With Arms Wide Open"		3.222222222222223
+36 "Be with You"		-0.11111111111111119
+37 "Come On Over Baby (All I Want Is You)"		0.2583333333333334
+38 "No More"		-0.313888888888889
+39 "All The Small Things"		0.125
+40 "The Way You Love Me"		9.34047619047619
+41 "I Turn To You"		7.894444444444444
+42 "Never Let You Go"		1.5374999999999996
+43 "I Need You"		1.2000000000000002
+44 "Thank God I Found You"		2.0
+45 "Let's Get Married"		3.9500000000000006
+46 "My Love Is Your Love"		8.938333333333334
+47 "Then The Morning Comes"		0.08571428571428574
+48 "Blue (Da Ba Dee)"		-0.051136363636363646
+49 "Desert Rose"		3.2333333333333334
+50 "The Real Slim Shady"		-5.588568376068377
+51 "Most Girls"		6.376145382395381
+52 "Wifey"		6.404682539682539
+53 "Wonderful"		13.711363636363638
+54 "Oops!... I Did It Again"		3.788194444444445
+55 "I Wanna Love You Forever"		6.429220779220779
+56 "Give Me Just One Night (Una Noche)"		-0.21428571428571427
+57 "Take a Picture"		0.30000000000000004
+58 "Otherside"		-3.6972222222222206
+59 "Big Pimpin'"		-1.855257936507938
+60 "A Puro Dolor"		0.0
+61 "He Can't Love U"		2.728030303030303
+62 "Separated"		-1.7523809523809526
+63 "I Wish"		1.85
+64 "U Know What's Up"		1.3607142857142858
+65 "Faded"		0.4666666666666668
+66 "Only God Knows Why"		0.5530555555555555
+67 "Shake Ya Ass"		1.6470238095238092
+68 "Bag Lady"		2.158333333333333
+69 "Meet Virginia"		4.581536796536797
+70 "Party Up (Up in Here)"		0.8527777777777777
+71 "Case of the Ex"		2.4679653679653684
+72 "Forgot About Dre"		-2.740277777777778
+73 "That's the Way"		2.59520202020202
+74 "Swear It Again"		5.55
+75 "The Next Episode"		1.4055555555555554
+76 "From the Bottom of My Broken Heart"		4.1090909090909085
+77 "Crash and Burn"		0.8180555555555559
+78 "Yes!"		4.873809523809524
+79 "The Best Day"		8.115530303030301
+80 "Where I Wanna Be"		-5.154166666666666
+81 "How Do You Like Me Now?!"		1.4972222222222222
+82 "My Best Friend"		13.565079365079365
+83 "Broadway"		1.6722222222222225
+84 "What'chu Like"		0.9073051948051949
+85 "Don't Think I'm Not"		12.710714285714284
+86 "I Hope You Dance"		1.3723214285714287
+87 "Better Off Alone"		5.0
+88 "Dance with Me"		3.5595238095238098
+89 "What About Now"		0.43333333333333335
+90 "I Like It"		0.8569444444444444

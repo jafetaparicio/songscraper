@@ -1,0 +1,90 @@
+0 "Surfin' U.S.A."		-0.11111111111111116
+1 "The End of the World"		1.0
+2 "Rhythm of the Rain"		2.0852272727272725
+3 "He's So Fine"		2.7333333333333334
+4 "Blue Velvet"		2.8607142857142858
+5 "Hey Paula"		5.299999999999999
+6 "Fingertips"		0.95
+7 "Can't Get Used to Losing You"		2.7727272727272725
+8 "My Boyfriend's Back"		27.378508297258282
+9 "Sukiyaki"		0.0
+10 "So Much in Love"		5.149444444444445
+11 "Puff, the Magic Dragon"		4.675
+12 "Blowin' in the Wind"		4.972222222222221
+13 "Wipe Out"		0.0
+14 "I Love You Because"		4.378571428571429
+15 "Wild Weekend"		12.194083694083695
+16 "You're the Reason I'm Living"		-0.1555555555555556
+17 "Walk Like a Man"		0.03194444444444444
+18 "Mockingbird"		2.5
+19 "I Will Follow Him"		4.43
+20 "Pipeline"		0.0
+21 "Surf City"		5.257661888084682
+22 "It's My Party"		0.3
+23 "Blame It on the Bossa Nova"		2.625
+24 "You Can't Sit Down"		-1.8743055555555554
+25 "Heat Wave"		3.7474999999999996
+26 "Denise"		7.754761904761905
+27 "Walk Right In"		1.1900432900432902
+28 "If You Wanna Be Happy"		1.1312500000000008
+29 "If I Had a Hammer"		2.0
+30 "Easier Said Than Done"		3.8206714996376285
+31 "Ruby Baby"		2.7333333333333334
+32 "Our Day Will Come"		4.800000000000001
+33 "Hello Stranger"		3.425
+34 "Be My Baby"		1.35
+35 "South Street"		1.6897435897435895
+36 "Days of Wine and Roses"		1.3
+37 "The Monkey Time"		0.8011904761904762
+38 "Candy Girl"		1.8357142857142859
+39 "Sugar Shack"		0.5111111111111111
+40 "Still"		3.35625
+41 "Blue on Blue"		-0.175
+42 "Cry Baby"		4.4
+43 "Two Faces Have I"		3.5363636363636357
+44 "Busted"		-2.0986111111111114
+45 "Da Doo Ron Ron"		0.8333333333333334
+46 "Foolish Little Girl"		1.5435064935064935
+47 "Memphis"		1.7490620490620488
+48 "In Dreams"		0.3107142857142858
+49 "More"		6.751515151515152
+50 "I Can't Stay Mad at You"		-2.0300324675324672
+51 "Losing You"		2.15
+52 "Mean Woman Blues"		-2.152083333333333
+53 "Our Winter Love"		106.19309583146482
+54 "I Wanna Be Around"		1.2601190476190476
+55 "You've Really Got a Hold on Me"		4.104166666666668
+56 "Sally Go 'Round the Roses"		-2.4222222222222225
+57 "(You're the) Devil in Disguise"		2.4
+58 "Those Lazy-Hazy-Crazy Days of Summer"		-2.0642857142857145
+59 "Baby Workout"		0.04107142857142865
+60 "Pride and Joy"		11.000694444444445
+61 "Deep Purple"		1.2428571428571427
+62 "From a Jack to a King"		-0.8892857142857143
+63 "Up on the Roof"		1.6503968253968253
+64 "What Will Mary Say"		-0.8
+65 "Mama Didn't Lie"		1.1
+66 "The Night Has a Thousand Eyes"		-0.43055555555555564
+67 "Don't Say Nothin' Bad (About My Baby)"		-2.9214285714285686
+68 "Ring of Fire"		1.5027777777777775
+69 "Just One Look"		1.7083333333333333
+70 "Hello Muddah, Hello Fadduh (A Letter from Camp)"		0.95625
+71 "Judy's Turn to Cry"		-0.2868055555555556
+72 "Tie Me Kangaroo Down, Sport"		-4.486324786324787
+73 "Fools Rush In"		3.1
+74 "Washington Square"		3.5314213564213564
+75 "Donna the Prima Donna"		2.2570238095238095
+76 "That Sunday, That Summer"		2.4727272727272727
+77 "Another Saturday Night"		-3.625
+78 "Painted, Tainted Rose"		2.7666666666666666
+79 "Go Away Little Girl"		0.18333333333333335
+80 "Take These Chains from My Heart"		3.8181818181818183
+81 "Talk to Me"		4.575
+82 "Come and Get These Memories"		3.592424242424242
+83 "Do the Bird"		4.022222222222222
+84 "It's All Right"		6.319642857142856
+85 "Shut Down"		-0.10763888888888903
+86 "One Fine Day"		5.412301587301589
+87 "Little Town Flirt"		1.5416666666666665
+88 "Fly Me to the Moon"		2.5375
+89 "The Reverend Mr. Black"		-0.01178113553113553

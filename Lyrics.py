@@ -6,21 +6,22 @@
 import os
 #Import the package and search for songs by a given artist:
 import lyricsgenius
-import re
+#import re
 import time
 
-path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
+path = "/Users/jafetaparicio/Thesis/Lyrics/songscraper/"
 os.chdir(path)
-songListDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLists'
-songSearchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongSearched'
-searchDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongSearched'
+songListDir = '/Users/jafetaparicio/Thesis/Lyrics/songscraper/SongLists'
+songSearchDir = '/Users/jafetaparicio/Thesis/Lyrics/songscraper/SongSearched'
+searchDir = '/Users/jafetaparicio/Thesis/Lyrics/songscraper/SongSearched'
 
 
 
+
+#hide token
 genius = lyricsgenius.Genius("eNHgmMCeRrd8prhC7EnyZtxX6Y_Ek8HOjMq8AS_6WCX4aiRhiqQiXYDukJcgyZcb")
-
-songFile = '1960.txt'
-year = 1960
+songFile = '2019.txt'
+year = 2019
 
 def songLyrics(songFile, songListDir, songSearchDir, genius, year):
 
@@ -35,7 +36,7 @@ def songLyrics(songFile, songListDir, songSearchDir, genius, year):
         line = line.strip("\"")
         songs.append(line.split("\t"))
         
-
+ 
     #Songs is new song list
     #Song title: songs[#][0]
     #Artist: songs[#][1]
@@ -47,7 +48,11 @@ def songLyrics(songFile, songListDir, songSearchDir, genius, year):
             index = 1
         getLyrics(songs[i][index].strip('"'), songs[i][index+1], songSearchDir, genius, year)
         
-        
+        print('\n')
+        print("*********************************************")
+        print("*********************************************")        
+        print("*********************************************")
+        print('\n')
         
 
 
@@ -71,7 +76,7 @@ def getLyrics(songName, artist, songSearchDir, genius, year):
         return 'null'
         #save to error file
     else:
-        path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/SongLyrics/" + str(year) + '/'
+        path = "/Users/jafetaparicio/Thesis/Lyrics/songscraper/SongLyrics/" + str(year) + '/'
         
         if os.path.isdir(path) == False:
             os.mkdir(path)
@@ -89,17 +94,13 @@ def getLyrics(songName, artist, songSearchDir, genius, year):
     time.sleep(.5)
     return song
 
-
-
-year = 1960
-for i in range(1960,2020):
+for i in range(2019 ,2020):
     songFile = str(year)+ '.txt'
     songLyrics(songFile, songListDir, searchDir, genius, year)
     year += 1
     
 
 
-#songLyrics(songFile, songListDir, searchDir, genius, year)
-#path = "/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Fall2020/Thesis/Lyrics/"
-#os.chdir(path)
+
+
 

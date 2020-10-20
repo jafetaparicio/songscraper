@@ -1,0 +1,15 @@
+0 "Physical"		1.5023809523809524
+1 "Eye of the Tiger"		0.16111111111111107
+2 "I Love Rock 'n Roll"		8.483333333333333
+3 "Ebony and Ivory"		8.915909090909091
+4 "Centerfold"		-3.685714285714286
+5 "Don't You Want Me"		2.3934343434343437
+6 "Jack & Diane"		0.65
+7 "Hurts So Good"		11.203630952380951
+8 "Abracadabra"		3.363888888888889
+9 "Hard to Say I'm Sorry"		-0.4333333333333335
+10 "Tainted Love"		8.257142857142856
+11 "Chariots of Fire"		0.0
+12 "Harden My Heart"		0.49999999999999994
+13 "Rosanna"		-0.9142857142857141
+14 "I Can't Go for That (No Can Do)"		0.9444444444444444

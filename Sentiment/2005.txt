@@ -1,0 +1,12 @@
+0 "We Belong Together"		-0.2220238095238095
+1 "Hollaback Girl"		-5.30634920634921
+2 "Let Me Love You"		12.210714285714284
+3 "Since U Been Gone"		1.95
+4 "1, 2 Step"		3.4607142857142854
+5 "Gold Digger"		0.19682539682539654
+6 "Boulevard of Broken Dreams"		-1.712698412698413
+7 "Candy Shop"		3.277380952380952
+8 "Don't Cha"		0.34305555555555567
+9 "Behind These Hazel Eyes"		-2.65952380952381
+10 "Disco Inferno"		1.1884199134199136
+11 "You and Me"		1.1186507936507937

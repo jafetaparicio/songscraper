@@ -1,0 +1,34 @@
+0 "My Sharona"		-0.6388888888888888
+1 "Bad Girls"		-4.320396825396824
+2 "Le Freak"		-0.6855401542901531
+3 "Da Ya Think I'm Sexy?"		2.6266666666666674
+4 "Reunited"		10.63988095238095
+5 "I Will Survive"		-0.831856060606061
+6 "Hot Stuff"		14.606249999999998
+7 "Y.M.C.A."		7.881144781144777
+8 "Ring My Bell"		1.55
+9 "Sad Eyes"		-2.9375
+10 "Too Much Heaven"		5.603030303030306
+11 "MacArthur Park"		1.4712962962962963
+12 "When You're in Love with a Beautiful Woman"		9.13888888888889
+13 "Makin' It"		-0.39999999999999986
+14 "Fire"		1.157142857142857
+15 "Tragedy"		1.2638888888888882
+16 "A Little More Love"		4.792261904761904
+17 "Heart of Glass"		3.7358333333333333
+18 "What a Fool Believes"		0.8083333333333333
+19 "Good Times"		14.846504329004327
+20 "You Don't Bring Me Flowers"		1.6083333333333332
+21 "Knock on Wood"		11.2
+22 "Stumblin' In"		4.15
+23 "Lead Me On"		2.242857142857143
+24 "Shake Your Body (Down to the Ground)"		-1.2361111111111116
+25 "Don't Cry Out Loud"		1.9281481481481486
+26 "The Logical Song"		1.9500000000000006
+27 "My Life"		1.4499999999999997
+28 "Just When I Needed You Most"		3.8166666666666664
+29 "You Can't Change That"		9.0
+30 "Shake Your Groove Thing"		2.6547252747252745
+31 "I'll Never Love This Way Again"		1.3499999999999996
+32 "Love You Inside Out"		6.791964285714285
+33 "I Want You to Want Me"		2.8

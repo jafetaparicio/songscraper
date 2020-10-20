@@ -1,0 +1,8 @@
+0 "Faith"		1.7374999999999998
+1 "Need You Tonight"		2.0860139860139855
+2 "Got My Mind Set on You"		4.164285714285715
+3 "Never Gonna Give You Up"		-2.683333333333333
+4 "Sweet Child o' Mine"		4.537698412698411
+5 "So Emotional"		0.1357142857142855
+6 "Heaven Is a Place on Earth"		2.944444444444444
+7 "Could've Been"		2.690178571428571

@@ -1,0 +1,100 @@
+1	"Surfin' U.S.A."	The Beach Boys
+2	"The End of the World"	Skeeter Davis
+3	"Rhythm of the Rain"	The Cascades
+4	"He's So Fine"	The Chiffons
+5	"Blue Velvet"	Bobby Vinton
+6	"Hey Paula"	Paul & Paula
+7	"Fingertips"	Little Stevie Wonder
+8	"Can't Get Used to Losing You"	Andy Williams
+9	"My Boyfriend's Back"	The Angels
+10	"Sukiyaki"	Kyu Sakamoto
+11	"So Much in Love"	The Tymes
+12	"Puff, the Magic Dragon"	Peter, Paul & Mary
+13	"Blowin' in the Wind"	Peter, Paul & Mary
+14	"Wipe Out"	The Surfaris
+15	"I Love You Because"	Al Martino
+16	"Wild Weekend"	The Rebels
+17	"You're the Reason I'm Living"	Bobby Darin
+18	"Walk Like a Man"	The Four Seasons
+19	"Mockingbird"	Inez & Charlie Foxx
+20	"I Will Follow Him"	Little Peggy March
+21	"Pipeline"	The Chantays
+22	"Surf City"	Jan & Dean
+23	"It's My Party"	Lesley Gore
+24	"Blame It on the Bossa Nova"	Eydie Gormé
+25	"You Can't Sit Down"	The Dovells
+26	"Heat Wave"	Martha & the Vandellas
+27	"Denise"	Randy & the Rainbows
+28	"Walk Right In"	The Rooftop Singers
+29	"If You Wanna Be Happy"	Jimmy Soul
+30	"If I Had a Hammer"	Trini Lopez
+31	"Easier Said Than Done"	The Essex
+32	"Ruby Baby"	Dion
+33	"Our Day Will Come"	Ruby & the Romantics
+34	"Hello Stranger"	Barbara Lewis
+35	"Be My Baby"	The Ronettes
+36	"South Street"	The Orlons
+37	"Days of Wine and Roses"	Henry Mancini
+38	"The Monkey Time"	Major Lance
+39	"Candy Girl"	The Four Seasons
+40	"Sugar Shack"	Jimmy Gilmer and the Fireballs
+41	"Still"	Bill Anderson
+42	"Blue on Blue"	Bobby Vinton
+43	"Cry Baby"	Garnet Mimms & the Enchanters
+44	"Two Faces Have I"	Lou Christie
+45	"Busted"	Ray Charles
+46	"Da Doo Ron Ron"	The Crystals
+47	"Foolish Little Girl"	The Shirelles
+48	"Memphis"	Lonnie Mack
+49	"In Dreams"	Roy Orbison
+50	"More"	Kai Winding
+51	"I Can't Stay Mad at You"	Skeeter Davis
+52	"Losing You"	Brenda Lee
+53	"Mean Woman Blues"	Roy Orbison
+54	"Our Winter Love"	Bill Pursell
+55	"I Wanna Be Around"	Tony Bennett
+56	"You've Really Got a Hold on Me"	The Miracles
+57	"Sally Go 'Round the Roses"	The Jaynetts
+58	"(You're the) Devil in Disguise"	Elvis Presley
+59	"Those Lazy-Hazy-Crazy Days of Summer"	Nat King Cole
+60	"Baby Workout"	Jackie Wilson
+61	"Pride and Joy"	Marvin Gaye
+62	"Deep Purple"	Nino Tempo & April Stevens
+63	"From a Jack to a King"	Ned Miller
+64	"Up on the Roof"	The Drifters
+65	"What Will Mary Say"	Johnny Mathis
+66	"Mama Didn't Lie"	Jan Bradley
+67	"The Night Has a Thousand Eyes"	Bobby Vee
+68	"Don't Say Nothin' Bad (About My Baby)"	The Cookies
+69	"Ring of Fire"	Johnny Cash
+70	"Just One Look"	Doris Troy
+71	"Hello Muddah, Hello Fadduh (A Letter from Camp)"	Allan Sherman
+72	"Judy's Turn to Cry"	Lesley Gore
+73	"Tie Me Kangaroo Down, Sport"	Rolf Harris
+74	"Fools Rush In"	Rick Nelson
+75	"Washington Square"	The Village Stompers
+76	"Donna the Prima Donna"	Dion
+77	"That Sunday, That Summer"	Nat King Cole
+78	"Another Saturday Night"	Sam Cooke
+79	"Painted, Tainted Rose"	Al Martino
+80	"Go Away Little Girl"	Steve Lawrence
+81	"Take These Chains from My Heart"	Ray Charles
+82	"Talk to Me"	Sunny & the Sunglows
+83	"Come and Get These Memories"	Martha and the Vandellas
+84	"Do the Bird"	Dee Dee Sharp
+85	"It's All Right"	The Impressions
+86	"Shut Down"	The Beach Boys
+87	"One Fine Day"	The Chiffons
+88	"Little Town Flirt"	Del Shannon
+89	"Fly Me to the Moon"	Joe Harnell
+90	"The Reverend Mr. Black"	The Kingston Trio
+91	"Hot Pastrami"	The Dartells
+92	"Martian Hop"	The Ran-Dells
+93	"Wonderful! Wonderful!"	The Tymes
+94	"Abilene"	George Hamilton IV
+95	"Part Time Love"	Little Johnny Taylor
+96	"Maria Elena"	Los Indios Tabajaras
+97	"Detroit City"	Bobby Bare
+98	"Twenty Miles"	Chubby Checker
+99	"Green, Green"	The New Christy Minstrels
+100	"Hey Girl"	Freddie Scott

@@ -1,0 +1,1 @@
+{'hard', 'strong', 'so', 'Getting', 'long', 'Trying', 'Flying', "n't", 'It', 'high', 'Wo', 'Gon', 'be', 'na', 'fly', "'s", 'now'}

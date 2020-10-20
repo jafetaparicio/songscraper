@@ -1,0 +1,26 @@
+0 "Careless Whisper"		3.2749999999999995
+1 "Like a Virgin"		4.91969696969697
+2 "Wake Me Up Before You Go-Go"		1.8628571428571423
+3 "I Want to Know What Love Is"		8.266666666666666
+4 "I Feel for You"		6.65
+5 "Out of Touch"		0.2972222222222221
+6 "Everybody Wants to Rule the World"		4.637301587301589
+7 "Money for Nothing"		8.357638888888891
+8 "Crazy for You"		-5.921212121212121
+9 "Take On Me"		0.7222222222222221
+10 "Everytime You Go Away"		0.74375
+11 "Easy Lover"		7.440277777777779
+12 "Can't Fight This Feeling"		-1.0499999999999998
+13 "We Built This City"		2.95
+14 "The Power of Love"		5.771428571428571
+15 "Don't You (Forget About Me)"		0.06388888888888888
+16 "Cherish"		7.488888888888889
+17 "St. Elmo's Fire (Man in Motion)"		2.5005723905723904
+18 "The Heat Is On"		1.04
+19 "We Are the World"		13.63373015873016
+20 "Shout"		3.860101010101011
+21 "Part-Time Lover"		0.47857142857142854
+22 "Saving All My Love For You"		6.052182539682539
+23 "Heaven"		0.8263888888888886
+24 "Everything She Wants"		3.141666666666667
+25 "Cool It Now"		12.27070105820105

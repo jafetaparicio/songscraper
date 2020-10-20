@@ -1,0 +1,17 @@
+0 "Bridge Over Troubled Water"		-4.5432539682539685
+1 "(They Long to Be) Close to You"		0.3944444444444444
+2 "American Woman"		-1.2267857142857146
+3 "Raindrops Keep Fallin' on My Head"		1.5375
+4 "War"		12.666666666666664
+5 "Ain't No Mountain High Enough"		3.5411111111111118
+6 "I'll Be There"		4.178787878787879
+7 "Get Ready"		5.675000000000001
+8 "Let It Be"		0.8857142857142857
+9 "Band of Gold"		2.9319444444444445
+10 "Mama Told Me (Not to Come)"		2.808333333333333
+11 "Everything Is Beautiful"		11.864583333333332
+12 "Make It with You"		0.5202380952380953
+13 "Hitchin' a Ride"		0.95
+14 "ABC"		8.032291666666667
+15 "The Love You Save"		3.868055555555555
+16 "Cracklin' Rosie"		5.3928571428571415

@@ -1,0 +1,38 @@
+0 "End of the Road"		4.049603174603176
+1 "Baby Got Back"		-3.583888888888889
+2 "Jump"		0.20750000000000013
+3 "Save the Best for Last"		0.9388888888888889
+4 "Baby-Baby-Baby"		8.729960317460318
+5 "Tears in Heaven"		0.961111111111111
+6 "My Lovin' (You're Never Gonna Get It)"		6.728214285714284
+7 "Under the Bridge"		3.153030303030303
+8 "All 4 Love"		13.0
+9 "Just Another Day"		2.131547619047619
+10 "I Love Your Smile"		7.126515151515153
+11 "To Be with You"		0.6756944444444446
+12 "I'm Too Sexy"		9.473863636363635
+13 "Black or White"		-0.4248015873015878
+14 "Achy Breaky Heart"		-0.5
+15 "I'll Be There"		6.16969696969697
+16 "November Rain"		1.7291666666666665
+17 "Life Is a Highway"		0.8666666666666663
+18 "Remember the Time"		6.432142857142857
+19 "Finally"		1.9514880952380946
+20 "This Used to Be My Playground"		1.16
+21 "Sometimes Love Just Ain't Enough"		0.04999999999999999
+22 "Can't Let Go"		-0.31428571428571417
+23 "Jump Around"		1.744444444444444
+24 "Diamonds and Pearls"		9.691964285714286
+25 "Don't Let the Sun Go Down on Me"		-0.011309523809523853
+26 "Masterpiece"		6.289042207792209
+27 "If You Asked Me To"		1.75
+28 "Giving Him Something He Can Feel"		6.062499999999999
+29 "Live and Learn"		1.8766143578643577
+30 "Come and Talk to Me"		4.650476190476192
+31 "Smells Like Teen Spirit"		-3.7291666666666665
+32 "Humpin' Around"		1.7587301587301585
+33 "Damn I Wish I Was Your Lover"		5.563816738816738
+34 "Tell Me What You Want Me to Do"		2.8468253968253965
+35 "Ain't 2 Proud 2 Beg"		33.19027777777779
+36 "It's So Hard to Say Goodbye to Yesterday"		-1.0666666666666667
+37 "Move This"		3.306730769230769

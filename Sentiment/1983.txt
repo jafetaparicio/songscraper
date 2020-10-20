@@ -1,0 +1,19 @@
+0 "Every Breath You Take"		-4.082142857142858
+1 "Billie Jean"		0.3065476190476189
+2 "Flashdance... What a Feeling"		1.8821428571428571
+3 "Down Under"		3.061111111111111
+4 "Beat It"		5.700793650793653
+5 "Total Eclipse of the Heart"		11.521726190476189
+6 "Maneater"		1.0863636363636364
+7 "Baby, Come to Me"		8.072077922077922
+8 "Maniac"		2.2
+9 "Sweet Dreams (Are Made of This)"		2.8000000000000003
+10 "Do You Really Want to Hurt Me"		5.450000000000002
+11 "You and I"		5.15
+12 "Come On Eileen"		-1.6333333333333337
+13 "Shame on the Moon"		0.12619047619047613
+14 "She Works Hard for the Money"		-3.5113095238095235
+15 "Never Gonna Let You Go"		3.9357142857142855
+16 "Hungry Like the Wolf"		0.5407142857142857
+17 "Let's Dance"		0.23333333333333334
+18 "Twilight Zone"		0.24529914529914534

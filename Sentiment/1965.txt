@@ -1,0 +1,97 @@
+0 "Wooly Bully"		0.2
+1 "I Can't Help Myself (Sugar Pie Honey Bunch)"		2.35
+2 "(I Can't Get No) Satisfaction"		-0.033333333333333354
+3 "You Were on My Mind"		-0.31111111111111117
+4 "You've Lost That Lovin' Feelin'"		1.2840277777777778
+5 "Downtown"		5.4625
+6 "Help!"		-1.0666666666666669
+7 "Can't You Hear My Heartbeat"		1.911111111111111
+8 "Crying in the Chapel"		2.373665223665223
+9 "My Girl"		-0.09999999999999998
+10 "Help Me, Rhonda"		0.1611111111111111
+11 "King of the Road"		0.2
+12 "The Birds and the Bees"		1.0678571428571428
+13 "Hold Me, Thrill Me, Kiss Me"		2.0376262626262625
+14 "Shotgun"		-2.5511111111111116
+15 "I Got You Babe"		0.03392857142857142
+16 "This Diamond Ring"		2.6187499999999995
+17 "The 'In' Crowd"		0.0
+18 "Mrs. Brown, You've Got a Lovely Daughter"		4.648611111111111
+19 "Stop! In the Name of Love"		6.773611111111111
+20 "Unchained Melody"		3.4499999999999997
+21 "Silhouettes"		-0.3234126984126985
+22 "I'll Never Find Another You"		1.0363636363636364
+23 "Cara Mia"		2.6999999999999997
+24 "Mr. Tambourine Man"		0.275
+25 "Cast Your Fate to the Wind"		0.45
+26 "Yes, I'm Ready"		5.132142857142858
+27 "What's New Pussycat?"		4.355255681818182
+28 "Eve of Destruction"		-2.125
+29 "Hang On Sloopy"		0.36499999999999977
+30 "Ticket to Ride"		-0.29825396825396844
+31 "Red Roses for a Blue Lady"		1.375
+32 "Papa's Got a Brand New Bag"		1.9901515151515154
+33 "Game of Love"		8.904285714285717
+34 "The Name Game"		-1.7165178571428572
+35 "I Know a Place"		5.860119047619046
+36 "Back in My Arms Again"		9.018506493506493
+37 "Baby I'm Yours"		0.5273809523809524
+38 "The Jolly Green Giant"		-1.8930555555555557
+39 "Hush, Hush, Sweet Charlotte"		4.608928571428572
+40 "Like a Rolling Stone"		4.320887445887446
+41 "I'm Telling You Now"		8.071428571428571
+42 "Ferry Cross the Mersey"		1.9000000000000001
+43 "Just Once in My Life"		1.349305555555555
+44 "The Seventh Son"		10.956946471517897
+45 "I'm Henry the Eighth, I Am"		1.5083333333333335
+46 "A Walk in the Black Forest"		0.0
+47 "For Your Love"		12.322077922077922
+48 "California Girls"		1.2444444444444445
+49 "Go Now"		4.15
+50 "Goldfinger"		0.20000000000000007
+51 "Down in the Boondocks"		0.2423611111111109
+52 "Baby the Rain Must Fall"		0.05625000000000002
+53 "Catch Us If You Can"		-0.475
+54 "Eight Days a Week"		11.0
+55 "Just a Little"		1.11125
+56 "You Turn Me On"		0.8
+57 "I'll Be Doggone"		1.818181818181818
+58 "Save Your Heart for Me"		0.8227272727272728
+59 "Tired of Waiting for You"		-7.400000000000002
+60 "Count Me In"		1.1138888888888887
+61 "All Day and All of the Night"		0.14285714285714285
+62 "What the World Needs Now Is Love"		3.80625
+63 "It's Not Unusual"		0.7874999999999996
+64 "She's About a Mover"		2.022222222222222
+65 "Shake"		3.375313575313575
+66 "Wonderful World"		10.25
+67 "Nowhere to Run"		-0.7699999999999997
+68 "Heart Full of Soul"		0.24285714285714283
+69 "Love Potion No. 9"		2.2766865079365077
+70 "Laurie (Strange Things Happen)"		-1.6371428571428572
+71 "Baby Don't Go"		1.2416666666666665
+72 "It Ain't Me Babe"		2.025496031746032
+73 "Tell Her No"		4.444444444444445
+74 "I Go to Pieces"		1.576641414141414
+75 "Red Roses for a Blue Lady"		1.375
+76 "Don't Just Stand There"		-0.4716269841269841
+77 "The Tracks of My Tears"		6.156944444444444
+78 "Too Many Rivers"		2.9562500000000003
+79 "I Like It Like That"		0.23472222222222222
+80 "Little Things"		1.9256944444444448
+81 "True Love Ways"		5.3999999999999995
+82 "It's the Same Old Song"		3.749999999999999
+83 "You've Got Your Troubles"		1.6625
+84 "Hold What You've Got"		1.792797619047619
+85 "We Gotta Get out of This Place"		1.2916666666666665
+86 "Laugh, Laugh"		3.4249999999999994
+87 "The Last Time"		-0.29583333333333334
+88 "Do You Believe in Magic"		7.69404761904762
+89 "All I Really Want to Do"		0.7074074074074073
+90 "Take Me Back"		5.373333333333334
+91 "I Want Candy"		1.336111111111111
+92 "Ooo Baby Baby"		-0.5
+93 "Laugh at Me"		-0.07539682539682574
+94 "Treat Her Right"		2.9279761904761905
+95 "The Race Is On"		-0.5106746031746033
+96 "I'm a Fool"		-0.36111111111111105

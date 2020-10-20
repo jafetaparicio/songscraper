@@ -1,0 +1,24 @@
+0 "Tie a Yellow Ribbon Round the Ole Oak Tree"		-0.3166666666666667
+1 "Bad, Bad Leroy Brown"		-0.7055555555555548
+2 "Killing Me Softly with His Song"		4.588095238095239
+3 "Let's Get It On"		5.165404040404041
+4 "My Love"		9.64375
+5 "Why Me"		-0.30000000000000004
+6 "Crocodile Rock"		-0.9232142857142858
+7 "Will It Go Round in Circles"		2.9000000000000004
+8 "You're So Vain"		0.6249999999999999
+9 "Touch Me in the Morning"		3.236363636363636
+10 "The Night the Lights Went Out in Georgia"		1.1777056277056277
+11 "Playground in My Mind"		1.2398358585858587
+12 "Brother Louie"		-0.06964285714285706
+13 "Delta Dawn"		2.6
+14 "Me and Mrs. Jones"		0.9033333333333331
+15 "Frankenstein"		0.0
+16 "Drift Away"		4.383333333333333
+17 "Little Willy"		-4.525000000000001
+18 "You Are the Sunshine of My Life"		2.1999999999999997
+19 "Half-Breed"		-4.480357142857143
+20 "That Lady"		5.425
+21 "Pillow Talk"		3.9882338385112788
+22 "We're an American Band"		0.7181547619047615
+23 "Right Place Wrong Time"		-1.1700396825396828

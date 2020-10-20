@@ -1,0 +1,100 @@
+0 "To Sir With Love"		2.6267207792207796
+1 "The Letter"		0.7863636363636365
+2 "Ode to Billie Joe"		1.2865079365079364
+3 "Windy"		1.3111111111111102
+4 "I'm a Believer"		2.152777777777778
+5 "Light My Fire"		4.7
+6 "Somethin' Stupid"		2.4729166666666664
+7 "Happy Together"		10.445238095238096
+8 "Groovin'"		1.9194444444444445
+9 "Can't Take My Eyes off You"		7.194444444444445
+10 "Little Bit O' Soul"		-1.4633928571428572
+11 "I Think We're Alone Now"		1.2
+12 "Respect"		-5.79375
+13 "I Was Made to Love Her"		4.970454545454546
+14 "Come Back When You Grow Up"		2.147222222222222
+15 "Kind of a Drag"		4.5
+16 "Sweet Soul Music"		4.949999999999999
+17 "Expressway to Your Heart"		3.45
+18 "Soul Man"		1.4083333333333332
+19 "Never My Love"		7.000000000000001
+20 "Apples, Peaches, Pumpkin Pie"		0.6957142857142856
+21 "Come on Down to My Boat"		-1.5118055555555563
+22 "Incense and Peppermints"		1.9551136363636363
+23 "Ruby Tuesday"		1.645454545454545
+24 "It Must Be Him"		0.6916666666666667
+25 "Love Is Here and Now You're Gone"		8.583333333333334
+26 "For What It's Worth"		4.07063492063492
+27 "Gimme Little Sign"		3.4239087301587303
+28 "The Happening"		4.698253968253969
+29 "All You Need Is Love"		11.9
+30 "Release Me"		3.1545454545454548
+31 "Your Precious Love"		6.572727272727272
+32 "Somebody to Love"		8.519444444444444
+33 "Get on Up"		1.7944444444444445
+34 "Brown Eyed Girl"		-1.1540404040404044
+35 "Jimmy Mack"		5.195277777777777
+36 "I Got Rhythm"		1.5750000000000002
+37 "A Whiter Shade of Pale"		0.6957142857142858
+38 "Don't You Care"		2.875
+39 "Then You Can Tell Me Goodbye"		1.5
+40 "Reflections"		3.921428571428571
+41 "On a Carousel"		-1.3611111111111112
+42 "Please Love Me Forever"		5.694444444444444
+43 "Alfie"		4.478030303030303
+44 "Silence Is Golden"		2.9999999999999996
+45 "My Cup Runneth Over"		1.75
+46 "Up, Up and Away"		10.475
+47 "San Francisco (Be Sure to Wear Flowers in Your Hair)"		1.543181818181818
+48 "The Rain, The Park & Other Things"		11.3625
+49 "There's a Kind of Hush"		4.663214285714286
+50 "Mercy, Mercy, Mercy"		8.310714285714287
+51 "This Is My Song"		2.8500000000000005
+52 "(Your Love Keeps Lifting Me) Higher and Higher"		11.75
+53 "I've Been Lonely Too Long"		0.36904761904761985
+54 "Penny Lane"		0.5814583333333334
+55 "You're My Everything"		4.632196969696969
+56 "Georgy Girl"		0.7366161616161616
+57 "Western Union"		-2.1499999999999995
+58 "Baby I Love You"		7.910714285714286
+59 "A Little Bit Me, a Little Bit You"		-2.4589285714285714
+60 "California Nights"		3.95
+61 "Dedicated to the One I Love"		2.1375
+62 "How Can I Be Sure"		4.523888888888889
+63 "Carrie Anne"		-2.1648268398268398
+64 "(We Ain't Got) Nothin' Yet"		1.4916666666666665
+65 "Friday on My Mind"		3.8083333333333327
+66 "Soul Finger"		0.0
+67 "Gimme Some Lovin'"		5.773611111111111
+68 "Let It Out (Let It All Hang Out)"		-0.48055555555555557
+69 "Let's Live for Today"		10.553030303030301
+70 "Close Your Eyes"		3.321428571428571
+71 "Groovin'"		1.9194444444444445
+72 "Funky Broadway"		-1.3055555555555556
+73 "Pleasant Valley Sunday"		6.780555555555555
+74 "I Never Loved a Man (The Way I Love You)"		-0.6999999999999996
+75 "Tell It Like It Is"		-0.024747474747474685
+76 "Cold Sweat"		-0.4178571428571429
+77 "She'd Rather Be with Me"		5.5888888888888895
+78 "98.6"		6.920815295815296
+79 "Here We Go Again"		4.1
+80 "White Rabbit"		-0.20833333333333337
+81 "Bernadette"		7.228295454545453
+82 "The Beat Goes On"		-0.1875
+83 "Snoopy Vs. The Red Baron"		-0.8095959595959596
+84 "Society's Child"		2.9859259259259257
+85 "Girl, You'll Be a Woman Soon"		1.3222222222222222
+86 "Ain't No Mountain High Enough"		0.9544444444444443
+87 "I Take It Back"		3.4375
+88 "Here Comes My Baby"		0.8833333333333334
+89 "Everlasting Love"		6.269166666666666
+90 "I Dig Rock and Roll Music"		2.5222222222222226
+91 "Little Ole Man (Uptight, Everything's Alright)"		-0.5361111111111112
+92 "I Had Too Much to Dream (Last Night)"		2.35
+93 "Daydream Believer"		-0.4468749999999999
+94 "Baby I Need Your Lovin'"		-0.7362554112554112
+95 "Mirage"		1.2556818181818181
+96 "Green, Green Grass of Home"		0.5194444444444442
+97 "I Can See for Miles"		1.7732142857142856
+98 "Don't Sleep in the Subway"		-0.7294642857142857
+99 "Thank the Lord for the Night Time"		0.9319444444444444

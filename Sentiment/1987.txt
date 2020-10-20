@@ -1,0 +1,100 @@
+0 "Walk Like an Egyptian"		-0.5087301587301588
+1 "Alone"		0.48142857142857143
+2 "Shake You Down"		1.1044191919191915
+3 "I Wanna Dance with Somebody (Who Loves Me)"		1.4194444444444443
+4 "Nothing's Gonna Stop Us Now"		2.15
+5 "C'est La Vie"		0.43333333333333324
+6 "Here I Go Again"		1.6361111111111117
+7 "The Way It Is"		0.46874999999999994
+8 "Shakedown"		-0.16363636363636408
+9 "Livin' on a Prayer"		0.9613636363636363
+10 "La Bamba"		0.0
+11 "Everybody Have Fun Tonight"		5.899999999999998
+12 "Don't Dream It's Over"		5.410714285714286
+13 "Always"		9.65
+14 "With or Without You"		1.709090909090909
+15 "Looking for a New Love"		10.719696969696972
+16 "Head to Toe"		11.394642857142857
+17 "I Think We're Alone Now"		1.7999999999999998
+18 "Mony Mony"		16.817460317460313
+19 "At This Moment"		0.1388888888888888
+20 "The Lady in Red"		4.0125
+21 "Didn't We Almost Have It All"		5.206565656565656
+22 "I Still Haven't Found What I'm Looking For"		0.0
+23 "I Want Your Sex"		-0.04999999999999993
+24 "Notorious"		2.625
+25 "Only in My Dreams"		2.9888888888888894
+26 "(I've Had) The Time of My Life"		0.32500000000000007
+27 "The Next Time I Fall"		7.135714285714286
+28 "Lean on Me"		-0.05
+29 "Open Your Heart"		-0.39513888888888893
+30 "Lost in Emotion"		1.9363636363636363
+31 "(I Just) Died In Your Arms"		2.842857142857143
+32 "Heart and Soul"		5.36670634920635
+33 "You Keep Me Hangin' On"		5.4363636363636365
+34 "Keep Your Hands to Yourself"		1.0571969696969696
+35 "I Knew You Were Waiting (For Me)"		2.2835714285714284
+36 "Control"		7.415277777777777
+37 "U Got the Look"		1.7564814814814813
+38 "Somewhere Out There"		0.18888888888888894
+39 "Land of Confusion"		3.2668831168831165
+40 "Jacob's Ladder"		0.0
+41 "Who's That Girl"		0.10000000000000003
+42 "You Got It All"		3.5500000000000003
+43 "Touch Me (I Want Your Body)"		2.143253968253968
+44 "I Just Can't Stop Loving You"		11.074696969696967
+45 "Causing a Commotion"		1.8333333333333335
+46 "In Too Deep"		6.35
+47 "Let's Wait Awhile"		7.823412698412698
+48 "Hip to Be Square"		-0.5722222222222222
+49 "Will You Still Love Me?"		8.938095238095238
+50 "Little Lies"		0.7437499999999999
+51 "Luka"		0.5757575757575758
+52 "I Heard A Rumour"		-0.6642857142857143
+53 "Don't Mean Nothing"		-4.665972222222223
+54 "Songbird"		0.0
+55 "Carrie"		0.38888888888888895
+56 "Don't Disturb This Groove"		2.4645779220779223
+57 "La Isla Bonita"		3.850000000000001
+58 "Bad"		-17.973214285714278
+59 "Sign o' the Times"		2.23625
+60 "Change of Heart"		0.30000000000000004
+61 "Come Go with Me"		3.922619047619048
+62 "Can't We Try"		6.381944444444445
+63 "To Be a Lover"		7.023809523809523
+64 "Mandolin Rain"		-0.10000000000000028
+65 "Breakout"		0.5333333333333333
+66 "Stand by Me"		-1.45
+67 "Tonight, Tonight, Tonight"		1.570299145299145
+68 "Someday"		-0.15555555555555559
+69 "When Smokey Sings"		4.553571428571428
+70 "Casanova"		4.642658730158731
+71 "Rhythm Is Gonna Get You"		0.4431818181818181
+72 "Rock Steady"		3.7718253968253954
+73 "Wanted Dead or Alive"		-1.4500000000000006
+74 "Big Time"		0.14285714285714285
+75 "The Finer Things"		5.908441558441557
+76 "Let Me Be the One"		6.609848484848485
+77 "Is This Love"		10.398214285714285
+78 "Diamonds"		10.749999999999998
+79 "Point of No Return"		2.05
+80 "Big Love"		3.6666666666666665
+81 "Midnight Blue"		2.222077922077922
+82 "Something So Strong"		4.949999999999999
+83 "Heat of the Night"		0.8396560846560847
+84 "Nothing's Gonna Change My Love for You"		18.525757575757574
+85 "Brilliant Disguise"		4.477435064935065
+86 "Just to See Her"		3.1732323232323236
+87 "Who Will You Run To"		4.235137085137086
+88 "Respect Yourself"		3.098863636363636
+89 "Cross My Broken Heart"		4.570833333333333
+90 "Victory"		10.174999999999999
+91 "Don't Get Me Wrong"		9.540101241351238
+92 "Doing It All for My Baby"		5.3690476190476195
+93 "Right on Track"		4.082123015873016
+94 "Ballerina Girl"		5.071428571428571
+95 "Meet Me Half Way"		1.059090909090909
+96 "I've Been in Love Before"		6.15
+97 "(You Gotta) Fight for Your Right (To Party!)"		1.7928571428571427
+98 "Funkytown"		0.41587301587301584
+99 "Love You Down"		10.747089947089947

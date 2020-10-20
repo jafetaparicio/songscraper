@@ -1,0 +1,100 @@
+0 "That's What Friends Are For"		5.1
+1 "Say You, Say Me"		1.0373015873015874
+2 "I Miss You"		1.7374999999999998
+3 "On My Own"		7.198611111111109
+4 "Broken Wings"		1.0390692640692643
+5 "How Will I Know"		5.258333333333334
+6 "Party All the Time"		1.0777777777777773
+7 "Burning Heart"		1.0
+8 "Kyrie"		0.6069444444444444
+9 "Addicted to Love"		1.1714285714285715
+10 "Greatest Love of All"		7.260173160173161
+11 "Secret Lovers"		-1.0226190476190478
+12 "Friends and Lovers"		0.02083333333333337
+13 "Glory of Love"		5.958787878787879
+14 "West End Girls"		-0.5194444444444444
+15 "There'll Be Sad Songs (To Make You Cry)"		6.7389610389610395
+16 "Alive and Kicking"		2.081944444444445
+17 "Never"		0.9190476190476189
+18 "Kiss"		3.718750000000001
+19 "Higher Love"		11.35021164021164
+20 "Stuck with You"		11.136111111111111
+21 "Holding Back the Years"		0.37142857142857133
+22 "Sledgehammer"		0.5848304473304472
+23 "Sara"		9.155
+24 "Human"		0.9333333333333333
+25 "I Can't Wait"		3.526641414141414
+26 "Take My Breath Away"		0.5374999999999999
+27 "Rock Me Amadeus"		-0.30000000000000004
+28 "Papa Don't Preach"		1.783658008658008
+29 "You Give Love a Bad Name"		-1.0124999999999986
+30 "When the Going Gets Tough, the Tough Get Going"		-4.409259259259258
+31 "When I Think of You"		11.75
+32 "These Dreams"		0.33522727272727254
+33 "Don't Forget Me (When I'm Gone)"		4.300000000000001
+34 "Live to Tell"		-1.635909090909091
+35 "Mad About You"		-7.814285714285715
+36 "Something About You"		2.3661255411255406
+37 "Venus"		1.2166666666666668
+38 "Dancing on the Ceiling"		0.43471713471713475
+39 "Conga"		0.6499999999999999
+40 "True Colors"		3.9083333333333337
+41 "Danger Zone"		1.0171428571428571
+42 "What Have You Done For Me Lately"		-0.9017316017316019
+43 "No One Is to Blame"		2.3808080808080807
+44 "Let's Go All the Way"		0.8046717171717171
+45 "I Didn't Mean to Turn You On"		-7.5875
+46 "Words Get in the Way"		3.4363636363636365
+47 "Manic Monday"		1.0055555555555555
+48 "Walk of Life"		0.3333333333333332
+49 "Amanda"		3.6714285714285717
+50 "Two of Hearts"		3.7499999999999996
+51 "Crush on You"		1.4833333333333334
+52 "If You Leave"		0.4392857142857143
+53 "Invisible Touch"		-1.0821428571428573
+54 "The Sweetest Taboo"		9.036363636363637
+55 "What You Need"		-0.7166666666666668
+56 "Talk to Me"		-1.734444444444445
+57 "Nasty"		-30.116071428571427
+58 "Take Me Home Tonight"		0.2875000000000001
+59 "We Don't Have to Take Our Clothes Off"		6.565972222222223
+60 "All Cried Out"		-1.5166666666666666
+61 "Your Love"		8.963988095238095
+62 "I'm Your Man"		8.52142857142857
+63 "Perfect Way"		13.675974025974027
+64 "Living in America"		3.1181818181818177
+65 "R.O.C.K. in the U.S.A."		0.27106481481481487
+66 "Who's Johnny"		5.783333333333333
+67 "Word Up!"		0.9527777777777777
+68 "Why Can't This Be Love"		6.8500000000000005
+69 "Silent Running (On Dangerous Ground)"		0.8600000000000001
+70 "Typical Male"		-0.015277777777777501
+71 "Small Town"		-3.9321969696969696
+72 "Tarzan Boy"		0.40029761904761907
+73 "All I Need Is a Miracle"		1.9404761904761905
+74 "Sweet Freedom"		12.591005291005288
+75 "True Blue"		9.25654761904762
+76 "Rumors"		3.6581293706293705
+77 "Life in a Northern Town"		-0.838888888888889
+78 "Bad Boy"		-14.897857142857134
+79 "Sleeping Bag"		0.1944444444444443
+80 "Tonight She Comes"		6.0476190476190474
+81 "Love Touch"		14.424404761904762
+82 "A Love Bizarre"		7.733333333333334
+83 "Throwing It All Away"		1.1080808080808082
+84 "Baby Love"		2.2032413419913413
+85 "Election Day"		0.5200757575757575
+86 "Nikita"		1.4375
+87 "Take Me Home"		0.5428571428571428
+88 "Walk This Way"		2.605069444444445
+89 "Sweet Love"		9.873214285714287
+90 "Your Wildest Dreams"		1.4363636363636365
+91 "Spies Like Us"		-0.7317460317460317
+92 "Object of My Desire"		5.2125
+93 "Dreamtime"		1.373412698412698
+94 "Tender Love"		6.310714285714286
+95 "King for a Day"		8.35
+96 "Love Will Conquer All"		1.6690476190476191
+97 "A Different Corner"		1.1458333333333333
+98 "I'll Be Over You"		0.5863636363636363
+99 "Go Home"		5.529365079365079

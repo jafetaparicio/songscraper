@@ -1,0 +1,58 @@
+0 "California Dreamin'"		-0.2055555555555555
+1 "96 Tears"		2.3109126984126984
+2 "What Becomes of the Brokenhearted"		4.156944444444444
+3 "Last Train to Clarksville"		-0.10000000000000009
+4 "Reach Out I'll Be There"		3.7327777777777773
+5 "These Boots Are Made for Walkin'"		2.122077922077922
+6 "Cherish"		4.448809523809524
+7 "Strangers in the Night"		3.027678571428571
+8 "Kicks"		0.7392195767195767
+9 "Ballad of the Green Berets"		3.473863636363636
+10 "Good Lovin'"		11.107142857142856
+11 "(You're My) Soul and Inspiration"		3.336363636363636
+12 "You Can't Hurry Love"		8.578679653679654
+13 "Sunny"		6.325000000000001
+14 "See You In September"		1.9500000000000008
+15 "Li'l Red Riding Hood"		1.4406250000000005
+16 "Lightnin' Strikes"		6.023863636363637
+17 "Poor Side of Town"		-0.11250000000000016
+18 "Working In The Coal Mine"		-6.383333333333336
+19 "A Groovy Kind of Love"		4.925
+20 "You Don't Have To Say You Love Me"		1.9444444444444444
+21 "Sunshine Superman"		0.8485119047619046
+22 "Born a Woman"		2.807142857142857
+23 "Monday, Monday"		1.4416666666666667
+24 "Red Rubber Ball"		-3.6772727272727272
+25 "Born Free"		4.368181818181818
+26 "Walk Away Renée"		-0.6055555555555556
+27 "Cool Jerk"		5.609953703703702
+28 "B-A-B-Y"		5.496363636363636
+29 "Hanky Panky"		0.7013888888888888
+30 "When a Man Loves a Woman"		0.628703703703704
+31 "Time Won't Let Me"		1.0267191043083899
+32 "Bus Stop"		0.625
+33 "Paint It, Black"		-0.7902777777777776
+34 "Summer In The City"		0.5777777777777778
+35 "I'm So Lonesome I Could Cry"		0.08636363636363636
+36 "My Love"		8.55
+37 "Daydream"		2.8375541125541126
+38 "Ain't Too Proud to Beg"		6.427083333333333
+39 "Wild Thing"		2.3821428571428576
+40 "Elusive Butterfly"		1.51969696969697
+41 "I Am a Rock"		1.725
+42 "Dirty Water"		-0.740277777777778
+43 "Hooray for Hazel"		0.033333333333333326
+44 "Crying Time"		1.623214285714286
+45 "Sweet Pea"		2.8874999999999997
+46 "Secret Agent Man"		-2.315909090909091
+47 "Did You Ever Have to Make Up Your Mind?"		2.698611111111111
+48 "We Can Work It Out"		0.20714285714285707
+49 "Homeward Bound"		0.6875
+50 "Uptight (Everything's Alright)"		4.334253246753247
+51 "Bang Bang (My Baby Shot Me Down)"		-1.427777777777778
+52 "Sloop John B"		-1.525
+53 "19th Nervous Breakdown"		2.602182539682539
+54 "Wipe Out"		0.0
+55 "Psychotic Reaction"		0.8250000000000002
+56 "Paperback Writer"		-0.1166666666666667
+57 "Beauty Is Only Skin Deep"		4.614285714285714

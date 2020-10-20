@@ -1,0 +1,53 @@
+0 "Love Will Keep Us Together"		7.727777777777778
+1 "Rhinestone Cowboy"		0.19722222222222216
+2 "Philadelphia Freedom"		6.280519480519482
+3 "Before the Next Teardrop Falls"		2.8
+4 "My Eyes Adored You"		0.9333333333333332
+5 "Some Kind of Wonderful"		15.460887896825401
+6 "Shining Star"		4.446666666666667
+7 "Fame"		1.332371794871795
+8 "Laughter in the Rain"		7.8
+9 "One of These Nights"		-0.27535714285714313
+10 "Thank God I'm a Country Boy"		3.8365151515151514
+11 "Jive Talkin'"		2.3291666666666666
+12 "Best of My Love"		16.828327922077918
+13 "Lovin' You"		5.331060606060607
+14 "Kung Fu Fighting"		0.10012626262626251
+15 "Black Water"		3.561111111111112
+16 "The Ballroom Blitz"		11.571843434343437
+17 "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song"		-4.096103896103896
+18 "He Don't Love You (Like I Love You)"		5.010714285714285
+19 "At Seventeen"		-1.2858333333333332
+20 "Pick Up the Pieces"		0.125
+21 "The Hustle"		0.0
+22 "Lady Marmalade"		1.801936026936027
+23 "Why Can't We Be Friends?"		-10.382142857142863
+24 "Love Won't Let Me Wait"		8.292301587301587
+25 "Boogie On Reggae Woman"		0.7549450549450549
+26 "Angie Baby"		1.4909271284271282
+27 "Wasted Days and Wasted Nights"		1.7749999999999997
+28 "Fight the Power"		1.8111111111111111
+29 "Jackie Blue"		1.9527777777777777
+30 "Fire"		1.5083333333333333
+31 "Magic"		1.0853914141414143
+32 "Please Mr. Postman"		3.9000000000000004
+33 "Sister Golden Hair"		-1.1231060606060608
+34 "Lucy in the Sky with Diamonds"		-0.6455555555555555
+35 "Mandy"		1.3222222222222224
+36 "Have You Never Been Mellow"		2.072222222222222
+37 "Could It Be Magic"		6.5200000000000005
+38 "Cat's in the Cradle"		5.923863636363636
+39 "Wildfire"		-1.3738095238095238
+40 "I'm Not Lisa"		1.0
+41 "Listen to What the Man Said"		3.1120153920153926
+42 "I'm Not in Love"		0.10208333333333341
+43 "I Can Help"		2.645887445887446
+44 "Fallin' in Love"		14.275
+45 "Feelings"		1.3444444444444446
+46 "When Will I Be Loved"		4.1171717171717175
+47 "Chevy Van"		4.06005291005291
+48 "You're the First, the Last, My Everything"		6.845359848484849
+49 "Please Mr. Please"		0.4871212121212123
+50 "You're No Good"		-8.480555555555553
+51 "Dynomite"		0.0
+52 "Walking in Rhythm"		0.3028571428571428

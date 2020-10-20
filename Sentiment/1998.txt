@@ -1,0 +1,39 @@
+0 "Too Close"		1.6559523809523802
+1 "The Boy Is Mine"		-3.8291666666666666
+2 "You're Still the One"		5.066666666666666
+3 "Truly Madly Deeply"		4.269552669552669
+4 "How Do I Live"		3.313636363636363
+5 "Together Again"		8.302777777777779
+6 "All My Life"		4.433333333333334
+7 "Candle in the Wind 1997"		3.3000000000000003
+8 "Nice & Slow"		5.504563492063491
+9 "I Don't Want to Wait"		0.853968253968254
+10 "How's It Going to Be"		0.9694444444444443
+11 "No, No, No"		6.1714285714285735
+12 "My Heart Will Go On"		2.75
+13 "Gettin' Jiggy wit It"		2.3012445887445887
+14 "You Make Me Wanna..."		3.097664141414141
+15 "My Way"		-0.8941919191919192
+16 "My All"		3.9107142857142856
+17 "The First Night"		-2.8440476190476205
+18 "Been Around the World"		-9.35906836219336
+19 "Adia"		5.669444444444445
+20 "Crush"		-5.753846153846155
+21 "Everybody (Backstreet's Back)"		4.0285714285714285
+22 "I Don't Want to Miss a Thing"		1.2357142857142858
+23 "Body Bumpin' (Yippie-Yi-Yo)"		0.13730158730158729
+24 "This Kiss"		6.266666666666667
+25 "I Don't Ever Want to See You Again"		11.049603174603176
+26 "Let's Ride"		-1.0513468013468015
+27 "Sex and Candy"		4.4
+28 "Show Me Love"		11.561363636363636
+29 "A Song for Mama"		2.8674603174603175
+30 "What You Want"		8.865476190476192
+31 "Frozen"		-0.45000000000000007
+32 "Gone till November"		-0.5204761904761905
+33 "My Body"		2.96031746031746
+34 "Tubthumping"		-6.622222222222228
+35 "Deja Vu (Uptown Baby)"		-1.6396049783549784
+36 "I Want You Back"		-0.21607142857142858
+37 "When the Lights Go Out"		-1.5076388888888888
+38 "They Don't Know"		2.1656565656565667

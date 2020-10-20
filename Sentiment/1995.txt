@@ -1,0 +1,17 @@
+0 "Gangsta's Paradise"		3.692045454545454
+1 "Waterfalls"		4.791666666666666
+2 "Creep"		1.152777777777778
+3 "Kiss from a Rose"		11.658968253968258
+4 "On Bended Knee"		0.6330447330447326
+5 "Another Night"		10.950000000000003
+6 "Fantasy"		4.183333333333334
+7 "Take a Bow"		8.168055555555554
+8 "Don't Take It Personal (Just One of Dem Days)"		-4.85
+9 "This Is How We Do It"		3.2166666666666672
+10 "I Know"		2.2
+11 "Water Runs Dry"		0.7
+12 "Freak Like Me"		4.4624999999999995
+13 "Run-Around"		2.528472222222222
+14 "I Can Love You Like That"		11.967500000000001
+15 "Have You Ever Really Loved a Woman?"		10.97053571428571
+16 "Always"		4.8

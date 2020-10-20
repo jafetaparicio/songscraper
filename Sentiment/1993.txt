@@ -1,0 +1,100 @@
+0 "I Will Always Love You"		7.6
+1 "Whoomp! (There It Is)"		0.06518308080808105
+2 "Can't Help Falling in Love"		6.500000000000001
+3 "That's the Way Love Goes"		14.121428571428572
+4 "Freak Me"		1.3152777777777775
+5 "Weak"		2.539682539682538
+6 "If I Ever Fall in Love"		6.860714285714287
+7 "Dreamlover"		-0.8416666666666665
+8 "Rump Shaker"		2.0041937229437234
+9 "Informer"		-3.8597222222222207
+10 "Nuthin' but a 'G' Thang"		-1.3250000000000006
+11 "In the Still of the Nite"		2.821428571428571
+12 "Don't Walk Away"		4.822321428571429
+13 "Knockin' da Boots"		9.717162698412695
+14 "Lately"		0.32726190476190475
+15 "Dazzey Duks"		5.424810606060607
+16 "Show Me Love"		5.3694444444444445
+17 "A Whole New World"		6.576515151515149
+18 "If"		3.537301587301587
+19 "I'm So Into You"		1.2333333333333334
+20 "Love Is"		0.5970238095238096
+21 "Runaway Train"		-0.11874999999999997
+22 "I'll Never Get Over You (Getting Over Me)"		3.650108225108225
+23 "Ditty"		5.754305555555556
+24 "Rhythm Is a Dancer"		31.447379720587964
+25 "The River of Dreams"		-1.651388888888889
+26 "I'm Gonna Be (500 Miles)"		0.33611111111111114
+27 "Two Princes"		0.4
+28 "Right Here"		22.088095238095242
+29 "I Have Nothing"		3.507936507936508
+30 "Mr. Wendal"		1.9583333333333337
+31 "Have I Told You Lately"		2.2
+32 "Saving Forever for You"		3.4444444444444446
+33 "Ordinary World"		-2.2916666666666665
+34 "If I Had No Loot"		5.120833333333333
+35 "I'd Do Anything for Love (But I Won't Do That)"		16.99920634920635
+36 "Slam"		-6.210360195360194
+37 "Looking Through Patient Eyes"		2.916964285714286
+38 "I'm Every Woman"		1.5146825396825396
+39 "Baby I'm Yours"		6.0892857142857135
+40 "Come Undone"		4.025
+41 "I Don't Wanna Fight"		-0.9343506493506494
+42 "I'd Die Without You"		0.2875000000000001
+43 "Whoot, There It Is"		1.7819444444444443
+44 "Hip Hop Hooray"		1.8794237012987014
+45 "Another Sad Love Song"		-7.866666666666666
+46 "Will You Be There"		2.3499999999999996
+47 "Comforter"		2.581547619047619
+48 "Good Enough"		5.350436507936507
+49 "What's Up?"		2.166904761904762
+50 "All That She Wants"		5.0357142857142865
+51 "7"		6.530014430014429
+52 "Dre Day"		0.4983405483405484
+53 "One Last Cry"		-0.3349206349206352
+54 "Just Kickin' It"		3.205555555555557
+55 "I Get Around"		-2.6003783253783257
+56 "Bed of Roses"		-1.1673611111111115
+57 "Real Love"		20.821666666666665
+58 "Here We Go Again!"		0.4113636363636363
+59 "Cryin'"		4.196230158730158
+60 "Cat's in the Cradle"		6.280113636363637
+61 "What About Your Friends"		-1.6923611111111119
+62 "I Got a Man"		8.325288600288602
+63 "Hey Mr. D.J."		0.8888888888888888
+64 "Insane in the Brain"		-27.605555555555554
+65 "Deeper and Deeper"		7.8125
+66 "Rain"		6.866666666666668
+67 "The Right Kind of Love"		2.0666666666666664
+68 "Bad Boys" (theme from Cops)		-17.543749999999992
+69 "That's What Love Can Do"		3.344444444444444
+70 "Do You Believe in Us"		2.6291666666666664
+71 "Angel"		0.48571428571428577
+72 "Forever in Love"		0.0
+73 "Again"		6.114880952380952
+74 "Boom! Shake the Room"		3.704365079365079
+75 "When She Cries"		3.0749999999999997
+76 "Sweat (A La La La La Long)"		2.3249999999999993
+77 "It Was a Good Day"		1.4538041125541126
+78 "More and More"		9.119047619047619
+79 "How Do You Talk to an Angel"		9.999210188466465
+80 "Rebirth of Slick (Cool Like Dat)"		3.6655372405372413
+81 "What Is Love"		4.205357142857142
+82 "To Love Somebody"		2.803625541125541
+83 "Give It Up, Turn It Loose"		0.7715415140415145
+84 "Alright"		5.270171957671958
+85 "Check Yo Self"		-0.6803030303030297
+86 "Fields of Gold"		1.1888888888888889
+87 "Ooh Child"		5.179265873015873
+88 "Faithful"		3.173015873015873
+89 "Reason to Believe"		2.350757575757576
+90 "Break It Down Again"		0.27121212121212
+91 "Nothin' My Love Can't Fix"		7.524249639249638
+92 "Three Little Pigs"		-3.155257936507936
+93 "Livin' on the Edge"		-0.15803571428571433
+94 "Hey Jealousy"		1.015873015873016
+95 "If I Ever Lose My Faith in You"		-0.8999999999999999
+96 "Anniversary"		4.23125
+97 "One Woman"		1.9666666666666661
+98 "Can't Get Enough of Your Love"		8.8
+99 "Two Steps Behind"		-0.30000000000000027
