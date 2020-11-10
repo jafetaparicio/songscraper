@@ -1,0 +1,7 @@
+('talk', 2)
+('think', 1)
+('better', 1)
+('oooh', 1)
+('ooh-ooh', 1)
+("'re", 1)
+('alone', 1)

@@ -10,6 +10,8 @@ import os
 from textblob import TextBlob
 import re
 import nltk
+import lyricsgenius
+
 #nltk.download('punkt')
 
 path ="/Users/jafetaparicio/Lyrics/"
@@ -101,6 +103,12 @@ for i in range(1960 ,2020):
     getPol(year,path,songFile,songListDir)
     year += 1
     
+
+
+
+
+
+
 
 
         

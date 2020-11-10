@@ -1,0 +1,7 @@
+('ey', 2)
+('shake', 2)
+('con', 2)
+('tas', 1)
+('terroristas', 1)
+('los', 1)
+('harlem', 1)

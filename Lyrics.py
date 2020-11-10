@@ -80,8 +80,10 @@ def getLyrics(songName, artist, songSearchDir, genius, year):
         
         if os.path.isdir(path) == False:
             os.mkdir(path)
-            
-        f= open(os.path.join(path, songName + '.txt') ,"w+")
+        try:   
+            f= open(os.path.join(path, songName + '.txt') ,"w+")
+        except FileNotFoundError as err:
+            print('skipping:', err)
         f.write(song.lyrics)
         f.close()
         with open(os.path.join(songSearchDir, 'ActuallySearched' + str(year) +'.txt'), 'a')  as f:
@@ -94,13 +96,15 @@ def getLyrics(songName, artist, songSearchDir, genius, year):
     time.sleep(.5)
     return song
 
-for i in range(2019 ,2020):
-    songFile = str(year)+ '.txt'
-    songLyrics(songFile, songListDir, searchDir, genius, year)
-    year += 1
+#for i in range(2019 ,2020):
+#    songFile = str(year)+ '.txt'
+#    songLyrics(songFile, songListDir, searchDir, genius, year)
+#    year += 1
     
-
-
+year = 2019
+songFile = "2019.txt"
+songLyrics(songFile, songListDir, searchDir, genius, year)
+    
 
 
 

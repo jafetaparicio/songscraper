@@ -14,7 +14,6 @@ import time
 
 #partial url
 url_year = "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_"
-#songListDir = '/Users/jafetaparicio/OneDrive - Eastern Connecticut State University/College/Spring2020/Thesis/Lyrics/songscraper/SongLists'
 songList_Dir = '/Users/jafetaparicio/Thesis/Lyrics/songscraper/SongLists'
 
     

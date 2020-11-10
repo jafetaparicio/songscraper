@@ -1,0 +1,7 @@
+('woo', 2)
+('uh-huh', 1)
+('wow', 1)
+('pick', 1)
+('pieces', 1)
+('alright', 1)
+('ahhh', 1)

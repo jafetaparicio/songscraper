@@ -1,0 +1,6 @@
+('forever', 1)
+('whisper', 1)
+('kiss', 1)
+('hold', 1)
+('love', 1)
+('sweetly', 1)
